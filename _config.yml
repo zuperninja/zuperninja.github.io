@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "fr"
+locale                   : "fr-BE"
 title                    : "OpenFab"
 title_separator          : "-"
 name                     : "OpenFab"
@@ -93,7 +93,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           :
   gitlab           :
