@@ -8,11 +8,11 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "fr"
+title                    : "OpenFab"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "OpenFab"
+description              : "More than a fablab"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
