@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenue sur ton site GitHub!
 
-You can use the [editor on GitHub](https://github.com/zuperninja/site-web-OF/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tu peux utiliser l'[editeur de GitHub](https://github.com/zuperninja/site-web-OF/edit/master/README.md) pour mettre à jour et visualiser le contenu dus ite sous forme de fichiers Markdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A chaque fois qu'un commit est créer dans ce repo, GitHub Pages va llancer [Jekyll](https://jekyllrb.com/) pour reconstruire les pages de ton site, à partir du contenu situé dans les fichiers en Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Le Markdown est une syntaxe pour formater (mettre en page) rapidement du texte. Les codes sont les suivants :
 
 ```markdown
 Syntax highlighted code block
