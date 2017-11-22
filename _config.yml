@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "fr-BE"
-title                    : "Zuper Ninja" #titre du site qui s'affice sur l'onglet
+title                    : "Zuper Ninja" # titre du site qui s'affice sur l'onglet et en haut à gauche de la page
 title_separator          : "-"
-name                     : "Repère du Zuper Ninja" #nom du site, apparaît sur la page
-description              : "Out there to get snack" #description apparait sur la sidebar
+name                     : "Repère du Zuper Ninja" # je sais pas encore
+description              : "Out there to get snack" # description apparait dans moteur de recherche et metadonnées
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,12 +81,12 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author apparait sur le side bar et metadonnées
 author:
-  name             : "OpenFab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "More than a fablab"
-  location         : "Bruxelles"
+  name             : "Zuper Ninja"
+  avatar           : "/assets/images/bio-photo.jpg" # chemin de l'image profil sidebar e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Out there to ge snack"
+  location         : "Chiang Mai"
   email            :
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           :
+  github           : "https://github.com/zuperninja"
   gitlab           :
   google_plus      :
   keybase          :
@@ -249,5 +249,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: # true
+      related: # true
