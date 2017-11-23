@@ -111,3 +111,12 @@ Aperçu :
 1. Liste numérotée
 1. Liste numérotée
 1. Liste numérotée
+
+Markdown :
+```markdown
+- [x] Liste de tâches
+- [ ] Liste de tâches
+```
+Aperçu :
+- [x] Liste de tâches
+- [ ] Liste de tâches
