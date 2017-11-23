@@ -1,6 +1,31 @@
 Bienvenue sur ton site propulsé par GitHub Pages, Jekyll et Minimal Mistakes forké par OpenFab.
 
 Ceci est un post, c'est-à-dire un article où tu peux poster ce que tu veux yeaaah !
+# Publier un nouvel article 
+
+## Créer un nouvel article
+
+1. Créer un nouveau fichier en cliquant sur `create new file`
+![image](https://user-images.githubusercontent.com/25099826/33157741-d8c3f7d0-d036-11e7-8225-7210a190c469.png)
+
+
+1. Ajouter `_posts/ANNEE-MOIS-JOUR-titre.md`
+_exemple : 2017-11-11-premier-post.md_
+![image](https://user-images.githubusercontent.com/25099826/32688104-51ab0258-c6fd-11e7-93b2-dc0bc8ab725e.png)
+
+
+1. Ecrire un texte
+![image](https://user-images.githubusercontent.com/25099826/32688115-87a3fa5e-c6fd-11e7-9391-f044259ccaba.png)
+
+
+1. Publier et attendre
+![image](https://user-images.githubusercontent.com/25099826/32688120-9517229c-c6fd-11e7-938f-318e1f873d84.png)
+
+
+1. Aller sur votre site et tada !
+![image](https://user-images.githubusercontent.com/25099826/32688225-99ea611a-c6ff-11e7-823c-a00d78ca83d4.png)
+
+
 
 # Quelques astuces de mise en forme
 
