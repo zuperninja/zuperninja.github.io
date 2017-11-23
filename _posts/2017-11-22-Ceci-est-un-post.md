@@ -2,10 +2,10 @@ Bienvenue sur ton site propulsé par GitHub Pages, Jekyll et Minimal Mistakes fo
 
 Ceci est un post, c'est-à-dire un article où tu peux poster ce que tu veux yeaaah !
 
-## Quelques astuces de mise en forme
+# Quelques astuces de mise en forme
 
 
-### Mettre en évidence
+## Mettre en évidence :
 
 Markdown :
 ```markdown
@@ -22,7 +22,8 @@ _Italique_
 
 Texte sur une ligne en `Code`
 
-### Ajouter des images 
+## Ajouter des images :
+
 ```markdown
 [Nom du lien](url) et ![Texte alternatif de l'image](src)
 
@@ -32,7 +33,8 @@ Aperçu :
 [Nom du lien](url) et ![Texte alternatif de l'image](src)
 
 [Lien vers Github](https://github.com/openfab-lab) et ![Texte alternatif de l'image](https://avatars0.githubusercontent.com/u/22885573?s=200&v=4)
-### Les titres pour hiérarchiser le contenu :
+
+## Les titres pour hiérarchiser le contenu :
 
 Markdown :
 ```markdown
@@ -45,7 +47,7 @@ Aperçu :
 ## Titre 2
 ### Titre 3
 
-### Ajouter des tableaux
+## Ajouter des tableaux :
 
 Markdown :
 ```markdown
@@ -63,7 +65,7 @@ Aperçu :
 | Item 4 | Item 5 | Item 6 |
 | Item 7 | Item 8 | Item 9 |
 
-### Ajouter des listes
+## Ajouter des listes :
 
 Markdown :
 ```markdown
