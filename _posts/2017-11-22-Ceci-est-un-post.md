@@ -14,6 +14,9 @@ Markdown :
 _Italique_ 
 
 Texte sur une ligne en `Code`
+
+>Citation
+>de une ou plusieurs lignes
 ```
 Aperçu :
 **Gras** 
@@ -22,20 +25,36 @@ _Italique_
 
 Texte sur une ligne en `Code`
 
+>Citation
+>de une ou plusieurs lignes
+
 ## Ajouter des images :
 
 ```markdown
-[Nom du lien](url) et ![Texte alternatif de l'image](src)
+![Texte alternatif de l'image](src)
 
-[Lien vers Github](https://github.com/openfab-lab) et ![Texte alternatif de l'image](https://avatars0.githubusercontent.com/u/22885573?s=200&v=4)
+![Logo OpenFab](https://avatars0.githubusercontent.com/u/22885573?s=200&v=4)
 ```
 Aperçu :
-[Nom du lien](url) et ![Texte alternatif de l'image](src)
+![Texte alternatif de l'image](src)
 
-[Lien vers Github](https://github.com/openfab-lab) et ![Texte alternatif de l'image](https://avatars0.githubusercontent.com/u/22885573?s=200&v=4)
+![Logo OpenFab](https://avatars0.githubusercontent.com/u/22885573?s=200&v=4)
+
+## Ajouter des liens :
+
+```markdown
+[Nom du lien](url)
+
+[Pour aller sur le Github d'OpenFab](https://github.com/openfab-lab)
+```
+Aperçu :
+[Nom du lien](url)
+
+[Pour aller sur le Github d'OpenFab](https://github.com/openfab-lab)
 
 ## Les titres pour hiérarchiser le contenu :
 
+Les titres vont de 1 à 6, même si seulement les 3premiers sont utilisés majoritairement
 Markdown :
 ```markdown
 # Titre 1
@@ -64,6 +83,8 @@ Aperçu :
 | Item 1 | Item 2 | Item 3 |
 | Item 4 | Item 5 | Item 6 |
 | Item 7 | Item 8 | Item 9 |
+
+[Générateur](http://www.tablesgenerator.com/markdown_tables) de markdown pour les tableaux
 
 ## Ajouter des listes :
 
