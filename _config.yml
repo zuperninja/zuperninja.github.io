@@ -251,3 +251,11 @@ defaults:
       comments: # true
       share: # true
       related: # true
+      
+ # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: splash
+author_profile: true
