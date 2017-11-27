@@ -24,9 +24,10 @@ Pour changer les montants dans ce tableau, il suffit d'éditer la page et change
 
 Les badges se gagnent à chaque passage de niveau. 1 niveau = 1 badge. Voir tableau de référence (il est où ?) pour chaque niveau dans chaque compétence.
 
-<img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="150"></img>
 
-**GitHub :**
+**GitHub**
+
+<img src="https://user-images.githubusercontent.com/12049360/29082385-9d9fe38c-7c65-11e7-9aa7-dfede0df31fc.png" width="150"></img>
 
 L'expérience pour Github se compte en commit.
 (description)
