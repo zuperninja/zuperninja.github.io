@@ -1,3 +1,10 @@
+---
+permalink: /butin/
+title: "Butin"
+excerpt: "Mon butin digital, récompenses pour mon travail collaboratif au sein d'OpenFab"
+---
+
+
 [git01]: https://user-images.githubusercontent.com/12049360/29084849-a55c597c-7c6d-11e7-8b70-5bae811ca5c1.png
 [thundercat]: https://user-images.githubusercontent.com/12049360/29084854-a7805d84-7c6d-11e7-92ce-83178d8c2e7a.gif
 [dalek-icon]: https://user-images.githubusercontent.com/12049360/29084857-a9bc259c-7c6d-11e7-9b84-05fe2fb8e8db.jpg
