@@ -9,6 +9,6 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Sitemap"
-  url: /sitemap/
+    url: /sitemap/
   - title: "Butin"
-  url: /butin/
+    url: /butin/
