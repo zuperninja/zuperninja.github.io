@@ -270,7 +270,7 @@ defaults:
     
   # _portfolio
   - scope:
-      path: "_portfolio"
+      path: "blog/_portfolio"
       type: portfolio
     values:
       layout: single
