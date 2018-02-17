@@ -237,6 +237,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+ portfolio:
+  output: true
+  permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -264,7 +270,7 @@ defaults:
     
   # _portfolio
   - scope:
-      path: "_epopee"
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
