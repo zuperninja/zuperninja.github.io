@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "fr-BE"
-title                    : "Zuper Ninja" # titre du site qui s'affice sur l'onglet et en haut à gauche de la page
+title                    : "Zuper Ninja" # titre du site qui s'affiche sur l'onglet et en haut à gauche de la page
 title_separator          : "-"
 name                     : "Repère du Zuper Ninja" # footer
 description              : "Out there to get snack" # description apparait dans moteur de recherche et metadonnées
@@ -259,3 +259,15 @@ defaults:
     values:
       layout: splash
       author_profile: true
+      
+
+    
+  # _portfolio
+  - scope:
+      path: "_epopee"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
