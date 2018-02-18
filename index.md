@@ -1,11 +1,12 @@
 ---
 layout: archive
+  classes: wide
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
 header:
-  image: /assets/images/banniere_zuperninja2.png
-  teaser: /assets/images/banniere_zuperninja2.png
-classes: wide
+  image: /assets/images/banniere_zuperninja1.png
+  teaser: /assets/images/banniere_zuperninja1.png
+
 
 ---
 
