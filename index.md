@@ -1,7 +1,10 @@
 ---
 layout: archive
 excerpt : "A website to show the thing I try to do, GitHub magic !"
-author_profile: true
+author_profile: false
+header:
+  image: /assets/images/banniere_zuperninja2.png
+  teaser: /assets/images/banniere_zuperninja2.png
 ---
 
 Je fais des trucs que j'essaye de retranscrire sur cet espace virtuel.
