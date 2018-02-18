@@ -11,7 +11,7 @@ header:
 
 
 {: .text-center}
-[Je fais des trucs que j'essaye de retranscrire sur cet espace virtuel.](/year-archive/){: .btn .btn--warning}
+[Je fais des trucs que j'essaye de retranscrire sur cet espace virtuel.](/year-archive/){: .btn .btn--warning .btn--x-large}
 
 ## Partager // ne pas oublier 
 {: .text-center}
