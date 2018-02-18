@@ -17,14 +17,14 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Web's Middle woman"
     title: "Web's Middle woman"
-    excerpt: "Je t'accompagne dans les méandres du web. I will guide you in the world wild web."
+    excerpt: "Je t'accompagne dans les méandres du web. I will guide you into the world wild web."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "Baker"
     title: "Baker"
-    excerpt: "Je recherche comment faire du pain en me promenant. Pain sur commande"
+    excerpt: "Je recherche comment faire du pain en me promenant. Pain sur commande @Chiang Mai. I research how to do bread everywhere. Bread on order @Chiang Mai."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
