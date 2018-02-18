@@ -1,6 +1,6 @@
 ---
 layout: archive
-  classes: wide
+classes: wide
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
 header:
