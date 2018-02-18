@@ -5,6 +5,8 @@ author_profile: false
 header:
   image: /assets/images/banniere_zuperninja2.png
   teaser: /assets/images/banniere_zuperninja2.png
+classes: wide
+
 ---
 
 Je fais des trucs que j'essaye de retranscrire sur cet espace virtuel.
