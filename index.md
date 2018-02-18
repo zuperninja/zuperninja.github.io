@@ -7,22 +7,22 @@ header:
   teaser: /assets/images/banniere_zuperninja1.png
   
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "Construire"
+  - image_path: /assets/images/landing_build.png
+    alt: "Women Carpenters, England 1941, © IWM (D 2701)"
     title: "Build"
     excerpt: "Je sais pas trop ce que je fais, mais ça l'air de marcher. I don't know what I'm doing, but it kind of works."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Web's Middle woman"
+  - image_path: /assets/images/landing_web.png
+    alt: "ENIAC, the world's first digital computer. Source : Los Alamos"
     title: "Web's Middle woman"
     excerpt: "Je t'accompagne dans les méandres du web. I will guide you into the world wild web."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "Baker"
+  - image_path: /assets/images/landing_bake.png
+    alt: "Women baking and eating cookies, Minneapolis 1954"
     title: "Baker"
     excerpt: "Je recherche comment faire du pain en me promenant. Pain sur commande @Chiang Mai. I research how to do bread everywhere. Bread on order @Chiang Mai."
     url: "#test-link"
