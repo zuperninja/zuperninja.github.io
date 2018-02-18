@@ -6,7 +6,7 @@ header:
   image: /assets/images/banniere_zuperninja1.png
   teaser: /assets/images/banniere_zuperninja1.png
   
-  feature_row:
+feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "Construire"
     title: "Build"
