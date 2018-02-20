@@ -38,7 +38,8 @@ Et là, miracle, pif paf pouf. Les soudures se suivent ! Pas de fonte de plastiq
 
 
 
-Poste associée à l'issue #2
+Poste associée à [l'issue #2](https://github.com/zuperninja/blog/issues/2)
+
 Conseil et aide sur le [groupe OpenFab.Lab](https://www.facebook.com/groups/openfablab.brussels/)
 
 
