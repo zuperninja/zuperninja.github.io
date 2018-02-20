@@ -1,8 +1,7 @@
 # main links
 main:
-  #- title: "About"
-  #  url: /about/
-  - title: "Blog"
+
+  - title: "Ninja's Log"
     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
@@ -10,5 +9,7 @@ main:
   #  url: /sitemap/
   # - title: "Butin"
   #  url: /butin/
-  - title: "Quêtes"
+  - title: "Quest"
     url: /portfolio/
+  - title: "Hireling"
+    url: /about/
