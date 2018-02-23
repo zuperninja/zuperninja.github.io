@@ -237,10 +237,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+permalink: /:collection/:path/
 
 
 
@@ -270,10 +271,10 @@ defaults:
     
   # _portfolio
   - scope:
-      path: "blog/_portfolio"
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
 
