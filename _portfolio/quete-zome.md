@@ -8,8 +8,7 @@ sidebar:
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
-    
-    
+---
  
 ## The Quest 
 
