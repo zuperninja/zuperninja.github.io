@@ -1,3 +1,16 @@
+---
+title: "Stage Design : Zome"
+excerpt: "We designed  stage for a festival in JaiThep. A wood structure with animatronic eye."
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+    
+    
+ 
 ## The Quest 
 
 Moving in Chiang Mai, I gravite around a group of friends involved in the art/music/fun festival JaiThep. This year they went from 1 day to 3days with more stages. My friend Joshua wanted to build a Zome for the Chill Out stage. Obviously, I forced him to take me as a partner. 
