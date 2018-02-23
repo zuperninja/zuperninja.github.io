@@ -1,13 +1,16 @@
 ---
 title: "Stage Design : Zome"
 excerpt: "We designed a stage for a festival in Thailand. A wood structure with animatronic eye."
+header:
+  image: /assets/images/portfolio/zome-cover.png
+  teaser: /assets/images/portfolio/zome-cover-th.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Designer & Builder"
+  - title: "Skills"
+    text: "Woodworking, electronics, conception"
 ---
  
 ## The Quest 
@@ -51,7 +54,7 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
 
 
 
-## The Rewards
+## The Rewards 
 
 ```
 + 2 carpenters skills (table saw + circular saw)
