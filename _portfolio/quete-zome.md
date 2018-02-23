@@ -1,6 +1,6 @@
 ---
 title: "Stage Design : Zome"
-excerpt: "We designed  stage for a festival in JaiThep. A wood structure with animatronic eye."
+excerpt: "We designed a stage for a festival in Thailand. A wood structure with animatronic eye."
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
