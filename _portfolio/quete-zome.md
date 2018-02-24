@@ -11,6 +11,11 @@ sidebar:
     text: "Designer & Builder"
   - title: "Skills"
     text: "Woodworking, electronics, conception"
+    
+feature_row:
+  - image_path: /assets/images/quete-zome/gallery-image-1-th.jpg
+  - image_path: /assets/images/quete-zome/gallery-image-2-th.jpg
+
 ---
  
 ## The Quest 
@@ -53,6 +58,8 @@ During the installation, it wasn't always go as we wanted. We only kept one eye 
 
 At the end it looked very nice ! And the area was a hit, a lot of people were chilling there under the shades and by the river. DJs had a lot of space to move. And the lightning at night add a lot of fun.
 
+
+{% include feature_row %}
 
 
 
