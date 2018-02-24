@@ -2,10 +2,6 @@
 layout: splash
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
-header:
-  image: /assets/images/banniere_zuperninja1.png
-  teaser: /assets/images/banniere_zuperninja1.png
-  
 feature_row:
   - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
@@ -39,6 +35,8 @@ feature_row:
 ## Share // never forget 
 {: .text-center}
 
+{% include feature_row %}
+
 
 Je me promène dans plusieurs secteurs et région du monde à la recherche de skills, d'expérience et de snack.
 [OpenFab](http://openfab.be) m'a permis de faire mes armes pendant plusieurs années. Aspirante guru du Quick&Dirty et de la sieste, J'explore le web et les utility stores.
@@ -54,6 +52,6 @@ Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris
 Mercenary baker, builder and web designer. I write my projects down in the form of [quests.](blog/portfolio/)
 {: .text-justify}
 
-{% include feature_row %}
+
 
 
