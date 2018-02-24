@@ -17,7 +17,7 @@ sidebar:
 
 Moving in Chiang Mai, I gravite around a group of friends involved in the art/music/magic festival [Jai Thep](http://jaithepfestival.com/). This year they went from 1 to 3 days with more stages. My friend Joshua wanted to build a Zome for the Chill Out stage. Obviously, I forced him to take me as a partner. 
 
-We had 3 months and 10 days on site to build a stage that will play 24/24h during 3 days. A limited budget, and a new country to discover for me.
+We had 3 months and 10 days on site to build a stage that will play 24/24h. A limited budget, and a new country to discover for me.
 
 ## The Crew
 
