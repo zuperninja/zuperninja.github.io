@@ -21,13 +21,14 @@ We had 3 months and 10 days on site to build a stage that will play 24/24h durin
 
 ## The Crew
 
+```
 - Joshua : Co-Heroes; amazing Australian dude, with skills in carpenting, musician and dj skills
-
 - @ElectroGuyMika : The Wise, telepathic transmission of electronic and arduino skills
 - Art Team : lead by Joelle, guru in Tie-Dye
 - Chelsea : The Mother of JellyFish
 - Camille : SideKick
 - The helpers
+```
 
 ## The Journey
 
