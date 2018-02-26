@@ -68,10 +68,6 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
    </tr>
 </table>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmheebruen%2Fphotos%2Fa.400193343741324.1073742141.106057879821540%2F400194367074555%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmheebruen%2Fphotos%2Fa.400193343741324.1073742141.106057879821540%2F400194367074555%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
 ## The Rewards 
 
 ```
