@@ -1,8 +1,7 @@
 ---
 title: Solder in the Jungle
-tags:
-    - Stage Design
-    - Zome
+categories:
+  - Stage Design : Zome
 ---
 
 ## L'épopée : 
