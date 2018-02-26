@@ -75,7 +75,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 
   /* paragraph indents */
@@ -428,4 +428,8 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.page__content {
+  text-align: justify;
 }
