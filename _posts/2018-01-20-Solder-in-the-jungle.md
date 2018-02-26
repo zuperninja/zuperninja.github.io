@@ -2,6 +2,7 @@
 title: Solder in the Jungle
 categories:
   - "Stage Design : Zome"
+related: true
 ---
 
 ## L'épopée : 
