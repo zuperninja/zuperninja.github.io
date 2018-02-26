@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/portfolio/zome-cover-th.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://user-images.githubusercontent.com/25099826/34670449-ead51c42-f4a8-11e7-9eed-4efb56c2d47c.png
     image_alt: "logo"
     text: "Designer & Builder"
   - title: "Skills"
-    text: "Woodworking, electronics, conception"
+    text: "Conception, woodworking, electronics"
 
 ---
  
