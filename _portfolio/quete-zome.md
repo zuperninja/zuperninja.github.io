@@ -2,8 +2,9 @@
 title: "Stage Design : Zome"
 excerpt: "We designed a stage for a festival in Thailand. A wood structure with a animatronic eye."
 header:
-  image: /assets/images/portfolio/zome-cover.png
-  teaser: /assets/images/portfolio/zome-cover-th.png
+  image: /assets/images/quete-zome/zome-cover.png
+  teaser: /assets/images/quete-zome/zome-cover-th.png
+  
 ---
  
 ## The Quest 
@@ -12,6 +13,9 @@ Moving in Chiang Mai, I gravite around a group of friends involved in the art/mu
 
 
 We had 3 months and 10 days on site to build a stage that will play 24/24h. A limited budget, and a new country to discover for me.
+
+
+<img width="774" alt="stage_disposition" src="https://user-images.githubusercontent.com/25099826/34564586-ca258698-f189-11e7-8e5f-e3b727ff25cb.PNG">
 
 ## The Crew
 
