@@ -13,8 +13,7 @@ sidebar:
     text: "Woodworking, electronics, conception"
     
 feature_row:
-  - image_path: <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-  - image_path: <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+  - image_path: https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=250 
   - image_path: <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ---
