@@ -11,10 +11,6 @@ sidebar:
     text: "Designer & Builder"
   - title: "Skills"
     text: "Woodworking, electronics, conception"
-    
-feature_row:
-  - image_path: https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=250 
-  - image_path: <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ---
  
@@ -47,8 +43,6 @@ Our location was near a little river, and surrounding by mountains. So I turned 
 ![image](https://user-images.githubusercontent.com/25099826/34670677-e63bdf44-f4a9-11e7-8631-25b7295d018e.png)
 
 
-
-
 We started by doing some math and building a first prototype. We made a lot of rookies mistakes. It was a good thing ! (posts)
 
 
@@ -68,7 +62,7 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
 <table>
     <tr>
         <td>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmheebruen%2Fphotos%2Fa.400193343741324.1073742141.106057879821540%2F400194367074555%2F%3Ftype%3D3&'  style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowTransparency='true'></iframe></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Featingoutmaps%2Fphotos%2Fa.328984457526488.1073741829.327831290975138%2F383632772061656%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
         </td>
         <td>
        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
