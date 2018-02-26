@@ -1,3 +1,10 @@
+---
+title: Solder in the Jungle
+tags:
+    - Stage Design
+    - Zome
+---
+
 ## L'épopée : 
 
 Je suis dans la jungle. J'ai appris à souder y a longtemps avec du bon matos. Ici tout change. 
