@@ -1,9 +1,6 @@
 ---
-layout: single
-classes: wide
-
 title: "Stage Design : Zome"
-excerpt: "We designed a stage for a festival in Thailand. A wood structure with animatronic eye."
+excerpt: "We designed a stage for a festival in Thailand. A wood structure with a animatronic eye."
 header:
   image: /assets/images/portfolio/zome-cover.png
   teaser: /assets/images/portfolio/zome-cover-th.png
