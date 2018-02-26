@@ -22,20 +22,18 @@ feature_row:
 
 Moving in Chiang Mai, I gravite around a group of friends involved in the art/music/magic festival [Jai Thep](http://jaithepfestival.com/). This year they went from 1 to 3 days with more stages. My friend Joshua wanted to build a Zome for the Chill Out stage. Obviously, I forced him to take me as a partner. 
 
-https://www.facebook.com/eatingoutmaps/photos/a.328984457526488.1073741829.327831290975138/383632772061656/?type=3&theater)
 
 We had 3 months and 10 days on site to build a stage that will play 24/24h. A limited budget, and a new country to discover for me.
 
 ## The Crew
 
-```
 - Joshua : Co-Heroes; amazing Australian dude, with skills in carpenting, musician and dj skills
 - @ElectroGuyMika : The Wise, telepathic transmission of electronic and arduino skills
 - Art Team : lead by Joelle, guru in Tie-Dye
 - Chelsea : The Mother of JellyFish
 - Camille : SideKick
 - The helpers
-```
+
 
 ## The Journey
 
