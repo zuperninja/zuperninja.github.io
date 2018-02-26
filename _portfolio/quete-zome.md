@@ -22,6 +22,8 @@ feature_row:
 
 Moving in Chiang Mai, I gravite around a group of friends involved in the art/music/magic festival [Jai Thep](http://jaithepfestival.com/). This year they went from 1 to 3 days with more stages. My friend Joshua wanted to build a Zome for the Chill Out stage. Obviously, I forced him to take me as a partner. 
 
+https://www.facebook.com/eatingoutmaps/photos/a.328984457526488.1073741829.327831290975138/383632772061656/?type=3&theater)
+
 We had 3 months and 10 days on site to build a stage that will play 24/24h. A limited budget, and a new country to discover for me.
 
 ## The Crew
@@ -58,6 +60,7 @@ During the installation, it wasn't always go as we wanted. We only kept one eye 
 
 At the end it looked very nice ! And the area was a hit, a lot of people were chilling there under the shades and by the river. DJs had a lot of space to move. And the lightning at night add a lot of fun.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Featingoutmaps%2Fphotos%2Fa.328984457526488.1073741829.327831290975138%2F383632772061656%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 {% include feature_row %}
 
