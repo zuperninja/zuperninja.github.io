@@ -264,8 +264,9 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
-      author_profile: true
+      layout: single
+      classes: wide
+      author_profile: false
       
 
     
