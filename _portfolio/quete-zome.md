@@ -4,14 +4,6 @@ excerpt: "We designed a stage for a festival in Thailand. A wood structure with 
 header:
   image: /assets/images/portfolio/zome-cover.png
   teaser: /assets/images/portfolio/zome-cover-th.png
-sidebar:
-  - title: "Role"
-    image: https://user-images.githubusercontent.com/25099826/34670449-ead51c42-f4a8-11e7-9eed-4efb56c2d47c.png
-    image_alt: "logo"
-    text: "Designer & Builder"
-  - title: "Skills"
-    text: "Conception, woodworking, electronics"
-
 ---
  
 ## The Quest 
