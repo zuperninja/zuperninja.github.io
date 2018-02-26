@@ -30,6 +30,7 @@ We had 3 months and 10 days on site to build a stage that will play 24/24h. A li
 ## The Journey
 
 I joined Joshua on the 27th of November 2017, he already had an idea of the disposition of the area.
+
 ![image](https://user-images.githubusercontent.com/25099826/34670740-3aa856f2-f4aa-11e7-9066-e03c92103ecc.png)
 
 The theme of the festival was : An other world.
