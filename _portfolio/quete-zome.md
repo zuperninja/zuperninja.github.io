@@ -1,4 +1,7 @@
 ---
+layout: single
+classes: wide
+
 title: "Stage Design : Zome"
 excerpt: "We designed a stage for a festival in Thailand. A wood structure with animatronic eye."
 header:
@@ -73,12 +76,11 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
    </tr>
 </table>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F146171972637348%2Fphotos%2Fa.146706389250573.1073741829.146171972637348%2F152611745326704%2F%3Ftype%3D3&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 ## The Rewards 
 
 ```
-+ 2 carpenters skills (table saw + circular saw)
++ 2 carpenters skills (table saw + circular saw) 
 + 3 logics
 + 1 fabrics skills
 + 5 explorer
