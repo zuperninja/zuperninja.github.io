@@ -277,5 +277,5 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: false
+      share: true
 
