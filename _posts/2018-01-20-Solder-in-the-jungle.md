@@ -3,6 +3,8 @@ title: Solder in the Jungle
 categories:
   - "Stage Design : Zome"
 related: true
+header:
+  teaser: /assets/images/quete-zome/solder-jungle-th.png
 ---
 
 ## L'épopée : 
