@@ -2,6 +2,7 @@
 title: "The Starius Project"
 excerpt: "Create a website in a short period of time in Wordpress."
 header:
+  image: /assets/images/portfolio/starius-project.png
   overlay-image: /assets/images/portfolio/starius-project.png
   teaser: /assets/images/portfolio/starius-project-th.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
