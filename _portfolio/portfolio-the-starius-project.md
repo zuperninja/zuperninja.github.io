@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/portfolio/starius-project-th.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "More Info"
-  cta_url: "https://unsplash.com
+  cta_url: "https://unsplash.com"
 tags:
   - "Website"
 categories:
