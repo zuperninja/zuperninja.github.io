@@ -1,5 +1,5 @@
 ---
-title: "Fabulous Paper Maché"
+title: "Fabulous Paper Mache"
 header:
   teaser: /assets/images/quete-zome/papier-mache-th.png
 categories:
