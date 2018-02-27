@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "Visit the website"
   cta_url: "https://thestariusproject.com"
-  overlay_filter:0.5
+  overlay_filter:"0.5"
 tags:
   - "Website"
 categories:
