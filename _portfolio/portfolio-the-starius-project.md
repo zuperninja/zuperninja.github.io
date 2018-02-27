@@ -4,10 +4,6 @@ excerpt: "Create a website in a short period of time in Wordpress."
 header:
   image: /assets/images/portfolio/starius-project.png
   teaser: /assets/images/portfolio/starius-project-th.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "Visit the website"
-  cta_url: "https://thestariusproject.com"
-  overlay_filter:"0.5"
 tags:
   - "Website"
 categories:
