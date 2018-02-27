@@ -44,14 +44,13 @@ With the little bit of time I had left, I worked on the SEO and the graphics.
 One of his friends had already bought the domain name and installed [Wordpress](https://wordpress.org/) and the theme.
 
 
-I spent 1.5 hours to discover and explore the theme (https://www.kadencethemes.com/product/pinnacle-free-theme/) and the visual builder ([SiteOrigin](https://siteorigin.com/page-builder/)). I highly recommend using them together. I noticed the builder might be slowing down the website, but I will research this issue during the second part of the mission.
+I spent 1.5 hours to discover and explore the theme ([Pinnacle by Kadence](https://www.kadencethemes.com/product/pinnacle-free-theme/)) and the visual builder ([SiteOrigin](https://siteorigin.com/page-builder/)). I highly recommend using them together. I noticed the builder might be slowing down the website, but I will research this issue during the second part of the mission.
 
 I then added the plugin we needed, and uninstalled the useless ones. This way, it will be easier for @ElectroGuyMika to focus on updating his online content, without having to worry about the technical stuff.
 
 I worked on a graphic chart to harmonize all of the future content, based on the artwork he gave me. And yes, I really dig the pink neon colour!
 
-![image](https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png)
-
+![image-center](https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png){: .align-center}
 
 ## Resources: 
 
@@ -62,14 +61,14 @@ For creating the graphic content I used [Inkscape](https://inkscape.org)
 
 ## Next steps: 
 
-[ ] Add content 
-[ ] Speed up & optimize 
-- [ ] Add new fonts 
-- [ ] Ease in-out scroll 
-- [ ] Publish gallery grid (waiting for the photo shoot) 
-- [ ] Optimize responsive design
-- [ ] Create tutorials for adding more content 
-- [ ] Add a fav icon 
+- Add content 
+- Speed up & optimize 
+- Add new fonts 
+- Ease in-out scroll 
+- Publish gallery grid (waiting for the photo shoot) 
+- Optimize responsive design
+- Create tutorials for adding more content 
+- Add a fav icon 
 
 ## WIP: 
 
@@ -77,6 +76,6 @@ Phase 1:  approx. 14 hours
 
 Phase 2: coming soon
 
-URL: http://thestariusproject.com/
+URL: [thestariusproject.com](http://thestariusproject.com/)
 
 Time report : [Toggl_time_entries.pdf](https://github.com/zuperninja/blog/files/1743706/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
