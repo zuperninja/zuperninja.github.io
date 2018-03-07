@@ -19,9 +19,14 @@ For me, the internet is an amazing place and community where you can learn anyth
 
 That's where I want to offer you my help ! 
 
-## What I do: 
-
-- guide you through all these web marketing strategy shenanigans (SEO, storytelling, etc)
+<table>
+	<tr>
+		<th>## What I do: </th>
+		<th>## What you get : </th>
+		<th>## What you get : </th>
+	</tr>
+	<tr>
+		<td>- guide you through all these web marketing strategy shenanigans (SEO, storytelling, etc)
 - help you find the platform you need for selling your art
 - build a website for your new activity
 - teach you how to use socials networks for your events
@@ -32,22 +37,23 @@ That's where I want to offer you my help !
 - a cup of tea (or coffee)
 - creative and easy way to complete your goals
 - general homemade tips and methods
-- concise report of what I worked on
-
-## What you get : 
-- individual support documentations (video and text) 
+- concise report of what I worked on</td>
+	<td>- individual support documentations (video and text) 
 - a cup of tea (or coffee)
 - creative and easy way to complete your goals
 - general homemade tips and methods
 - concise report of what I worked on
-
-## My process : 
-Nobody have time for endless discussion and 2 page-long emails. 
+	</td>
+	<td>
+		Nobody have time for endless discussion and 2 page-long emails. 
 1. I will send you a first email with some basics questions, your responses will narrow down what you need. 
 2. We can have a 30minutes meetings to prepare what we will do and lay down a timeline. 
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
 5. Stay in touch after the job to check on you :)
+	</td>
+	</tr>
+</table>
 
 Contact me, it will be fun ! .notice--warning
 
