@@ -33,14 +33,19 @@ That's where I want to offer you my help !
 - general homemade tips and methods
 - concise report of what I worked on
 
+{% capture notice-text-3 %}
 ## What you get : 
 - individual support documentations (video and text) 
 - a cup of tea (or coffee)
 - creative and easy way to complete your goals
 - general homemade tips and methods
 - concise report of what I worked on
+{% endcapture %}
+<div class="notice--warning">
+  {{ notice-text-2 | markdownify }}
+</div>
 
-{% capture notice-text %}
+{% capture notice-text-3 %}
 ## My process : 
 Nobody have time for endless discussion and 2 page-long emails. 
 1. I will send you a first email with some basics questions, your responses will narrow down what you need. 
@@ -52,8 +57,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 
 
 <div class="notice--info">
-  <h4>My process:</h4>
-  {{ notice-text | markdownify }}
+  {{ notice-text-3 | markdownify }}
 </div>
 
 
