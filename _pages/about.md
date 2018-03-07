@@ -33,7 +33,7 @@ That's where I want to offer you my help !
 - general homemade tips and methods
 - concise report of what I worked on
 
-{% capture notice-text-3 %}
+{% capture notice-text-2 %}
 ## What you get : 
 - individual support documentations (video and text) 
 - a cup of tea (or coffee)
@@ -41,6 +41,7 @@ That's where I want to offer you my help !
 - general homemade tips and methods
 - concise report of what I worked on
 {% endcapture %}
+
 <div class="notice--warning">
   {{ notice-text-2 | markdownify }}
 </div>
