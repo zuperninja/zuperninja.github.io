@@ -3,16 +3,9 @@ layout: splash
 permalink: /about/
 title: "About"
 excerpt: "Zuper Ninja can help you be build your presence online and guide you through the world wild web"
-sidebar: true
-toc: true
-toc_label: "Contenu"
-share: true
-
 ---
 
 Hi Internet People !
-
-{% include feature_row %}
 
 
 My name is Anne-Camille, aka Zuper Ninja. I spend most of my time online and making stuff on my computer or at my workbench. 
@@ -40,7 +33,9 @@ That's where I want to offer you my help !
 - concise report of what I worked on
 {% endcapture %}
 
-
+<div class="notice--success">
+  {{ notice-text-1 | markdownify }}
+</div>
 
 {% capture notice-text-2 %}
 ## What you get : 
