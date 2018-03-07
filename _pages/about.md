@@ -14,12 +14,15 @@ Hi Internet People !
 
 My name is Anne-Camille, aka Zuper Ninja. I spend most of my time online and making stuff on my computer or at my workbench. 
 I used to teach computer skills to adult, and help my friends naviguate the world wild web. 
+{: .text-justify}
 
 For me, the internet is an amazing place and community where you can learn anything you want. Sometimes it's just too much and the first steps are hard to climb. It's easy to get lost and feel  frustrated. I remember my students who wanted to quit when a message pop-up on their screens, or when they wanted to display a picture on their website and it breaks all their layout ! That sucks, and it's easy to quit if you are by yourself, or don't have time.
+{: .text-justify}
 
 That's where I want to offer you my help ! 
-## What I do: 
 
+{% capture notice-text-1 %}
+## What I do: 
 - guide you through all these web marketing strategy shenanigans (SEO, storytelling, etc)
 - help you find the platform you need for selling your art
 - build a website for your new activity
@@ -32,6 +35,12 @@ That's where I want to offer you my help !
 - creative and easy way to complete your goals
 - general homemade tips and methods
 - concise report of what I worked on
+{% endcapture %}
+
+<div class="notice--warning">
+  <h2> What I do:</h2>
+  {{ notice-text-1 | markdownify }}
+</div>
 
 {% capture notice-text-2 %}
 ## What you get : 
@@ -42,7 +51,8 @@ That's where I want to offer you my help !
 - concise report of what I worked on
 {% endcapture %}
 
-<div class="notice--warning">
+<div class="notice--success">
+  <h2> What you get:</h2>
   {{ notice-text-2 | markdownify }}
 </div>
 
@@ -62,8 +72,8 @@ Nobody have time for endless discussion and 2 page-long emails.
 </div>
 
 
-Contact me, it will be fun ! 
-{: .notice--warning}
+[Contact me, it will be fun !](#link){: .btn .btn--primary}
+{: .text-center}
 
 ## Portfolio : 
 
