@@ -1,9 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /about/
 title: "About"
 excerpt: "Zuper Ninja can help you be build your presence online and guide you through the world wild web"
 toc: true
+toc_label: "Contenu"
+share:true
+
 ---
 
 Hi Internet People !
