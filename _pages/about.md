@@ -47,12 +47,18 @@ Nobody have time for endless discussion and 2 page-long emails.
 2. We can have a 30minutes meetings to prepare what we will do and lay down a timeline. 
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
-5. Stay in touch after the job to check on you :){% endcapture %}
+5. Stay in touch after the job to check on you :)
+{% endcapture %}
 
-{{ notice-text | markdownify }} 
+
+<div class="notice--info">
+  <h4>My process:</h4>
+  {{ notice-text | markdownify }}
+</div>
 
 
-Contact me, it will be fun ! {: .notice--warning}
+Contact me, it will be fun ! 
+{: .notice--warning}
 
 ## Portfolio : 
 
