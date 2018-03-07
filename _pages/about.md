@@ -33,7 +33,7 @@ That's where I want to offer you my help !
 - concise report of what I worked on
 {% endcapture %}
 
-<div class="notice--success">
+<div class="notice--warning">
   {{ notice-text-1 | markdownify }}
 </div>
 
