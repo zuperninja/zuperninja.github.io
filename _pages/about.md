@@ -11,9 +11,9 @@ feature_row:
     - title: "What I do:"
       excerpt : "<div class="notice--warning">{{ notice-text-1 | markdownify }}</div>"
     - title: "What you get:"
-      excerpt :"<div class="notice--warning">{{ notice-text-2 | markdownify }}</div>"
+      excerpt : "<div class="notice--warning">{{ notice-text-2 | markdownify }}</div>"
     - title: "The process: "
-      excerpt :"<div class="notice--warning">{{ notice-text-3 | markdownify }}</div>"
+      excerpt : "<div class="notice--warning">{{ notice-text-3 | markdownify }}</div>"
 
 ---
 
