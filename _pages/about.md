@@ -87,6 +87,10 @@ Nobody have time for endless discussion and 2 page-long emails.
  </div>
  
  
+ <div class="notice--info">  {{ notice-text-3 | markdownify }} </div> |  <div class="notice--info">  {{ notice-text-3 | markdownify }} </div> 
+ -------------- | ----------------- 
+ a | b 
+ 
 [Contact me, it will be fun !](#link){: .btn .btn--primary}
 {: .text-center}
 
