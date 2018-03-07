@@ -40,15 +40,19 @@ That's where I want to offer you my help !
 - general homemade tips and methods
 - concise report of what I worked on
 
+{% capture notice-text %}
 ## My process : 
 Nobody have time for endless discussion and 2 page-long emails. 
 1. I will send you a first email with some basics questions, your responses will narrow down what you need. 
 2. We can have a 30minutes meetings to prepare what we will do and lay down a timeline. 
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
-5. Stay in touch after the job to check on you :)
+5. Stay in touch after the job to check on you :){% endcapture %}
 
-<p .notice--warning>Contact me, it will be fun ! </p>
+{{ notice-text | markdownify }} 
+
+
+Contact me, it will be fun ! {: .notice--warning}
 
 ## Portfolio : 
 
