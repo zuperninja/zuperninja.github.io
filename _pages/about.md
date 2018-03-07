@@ -7,10 +7,20 @@ sidebar: true
 toc: true
 toc_label: "Contenu"
 share: true
+feature_row:
+    - title: "What I do:"
+      excerpt : "<div class="notice--warning">{{ notice-text-1 | markdownify }}</div>"
+    - title: "What you get:"
+      excerpt :"<div class="notice--warning">{{ notice-text-2 | markdownify }}</div>"
+    - title: "The process: "
+      excerpt :"<div class="notice--warning">{{ notice-text-3 | markdownify }}</div>"
 
 ---
 
 Hi Internet People !
+
+{% include feature_row %}
+
 
 My name is Anne-Camille, aka Zuper Ninja. I spend most of my time online and making stuff on my computer or at my workbench. 
 I used to teach computer skills to adult, and help my friends naviguate the world wild web. 
@@ -37,10 +47,7 @@ That's where I want to offer you my help !
 - concise report of what I worked on
 {% endcapture %}
 
-<div class="notice--warning">
-  <h2> What I do:</h2>
-  {{ notice-text-1 | markdownify }}
-</div>
+
 
 {% capture notice-text-2 %}
 ## What you get : 
@@ -52,7 +59,6 @@ That's where I want to offer you my help !
 {% endcapture %}
 
 <div class="notice--success">
-  <h2> What you get:</h2>
   {{ notice-text-2 | markdownify }}
 </div>
 
