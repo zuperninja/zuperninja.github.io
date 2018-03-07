@@ -72,7 +72,20 @@ Nobody have time for endless discussion and 2 page-long emails.
   {{ notice-text-3 | markdownify }}
 </div>
 
-
+<table>
+    <td> <div class="notice--warning">
+         {{ notice-text-1 | markdownify }}
+         </div>
+    </td>
+    <td> <div class="notice--success">
+         {{ notice-text-2 | markdownify }}
+         </div>
+    </td>
+    <td> <div class="notice--info">
+         {{ notice-text-3 | markdownify }}
+         </div>
+    </td>
+</table>
 [Contact me, it will be fun !](#link){: .btn .btn--primary}
 {: .text-center}
 
