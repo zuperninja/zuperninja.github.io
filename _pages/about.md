@@ -28,7 +28,6 @@ That's where I want to offer you my help !
 {: .text-center}
 
 {% capture notice-text-1 %}
-## What I do: 
 - guide you through all these web marketing strategy shenanigans (SEO, storytelling, etc)
 - help you find the platform you need for selling your art
 - build a website for your new activity
@@ -38,7 +37,6 @@ That's where I want to offer you my help !
 {% endcapture %}
 
 {% capture notice-text-2 %}
-## What you get : 
 - individual support documentations (video and text) 
 - a cup of tea (or coffee)
 - creative and easy way to complete your goals
@@ -49,7 +47,7 @@ That's where I want to offer you my help !
 
 
 {% capture notice-text-3 %}
-## My process : 
+
 Nobody have time for endless discussion and 2 page-long emails. 
 1. I will send you a first email with some basics questions, your responses will narrow down what you need. 
 2. We can have a 30minutes meetings to prepare what we will do and lay down a timeline. 
@@ -62,19 +60,24 @@ Nobody have time for endless discussion and 2 page-long emails.
 
 
 <table>
-    <td> <div class="notice--warning">
+    <td> 
+         <div class="notice--warning">
+         ## What I do: 
          {{ notice-text-1 | markdownify }}
          </div>
-    </td>
-    <td> <div class="notice--success">
+         <div class="notice--success">
+         ## What you get: 
          {{ notice-text-2 | markdownify }}
          </div>
     </td>
+    <td> 
+        ## My process:
+       <div class="notice--info">
+       {{ notice-text-3 | markdownify }}
+       </div>
+    </td>
 </table>
 
-<div class="notice--info">
- {{ notice-text-3 | markdownify }}
- </div>
 
 
  
