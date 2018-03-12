@@ -44,6 +44,7 @@ That's where I want to offer you my help !
 - creative and easy way to complete your goals
 - general homemade tips and methods
 - concise report of what I worked on
+</br>
 {% endcapture %}
 
 
@@ -83,6 +84,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 ## Portfolio : 
 
 [The Starius Project](https://zuperninja.github.io/blog/portfolio/portfolio-the-starius-project/)
+
 [Ink & Earth](https://zuperninja.github.io/blog/portfolio/portfolio-ink-and-earth/)
 
 
