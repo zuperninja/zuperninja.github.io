@@ -31,11 +31,7 @@ feature_row:
 
 ---
 
-
-{: .text-center}
-[I'm doing some stuff](/blog/year-archive/){: .btn .btn--warning .btn--large}
-
-## Share // never forget 
+## Share // Never Forget 
 {: .text-center}
 
 
