@@ -33,14 +33,8 @@ That's where I want to offer you my help !
 - help you find the platform you need for selling your art
 - build a website for your new activity
 - teach you how to use socials networks for your events
-- sent you cute picture of sloth
 - show you how to use free and legal resources and softwares
 - and all the boring technical stuff you don't want to know about
-- individual support documentations (video and text) 
-- a cup of tea (or coffee)
-- creative and easy way to complete your goals
-- general homemade tips and methods
-- concise report of what I worked on
 {% endcapture %}
 
 {% capture notice-text-2 %}
@@ -89,6 +83,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 ## Portfolio : 
 
 [The Starius Project](https://zuperninja.github.io/blog/portfolio/portfolio-the-starius-project/)
+[Ink & Earth](https://zuperninja.github.io/blog/portfolio/portfolio-ink-and-earth/)
 
 
 
