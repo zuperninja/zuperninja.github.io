@@ -61,17 +61,17 @@ Nobody have time for endless discussion and 2 page-long emails.
 
 <table>
     <td> 
+      <h2>What I do: </h2>
          <div class="notice--warning">
-         ## What I do: 
          {{ notice-text-1 | markdownify }}
          </div>
+      <h2>What you get: </h2>
          <div class="notice--success">
-         ## What you get: 
          {{ notice-text-2 | markdownify }}
          </div>
     </td>
     <td> 
-        ## My process:
+      <h2>My process: </h2>
        <div class="notice--info">
        {{ notice-text-3 | markdownify }}
        </div>
