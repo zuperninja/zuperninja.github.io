@@ -4,8 +4,8 @@ permalink: /about/
 title: "About"
 excerpt: "Zuper Ninja can help you be build your presence online and guide you through the world wild web"
 header:
-  image: /assets/images/middle-woman1.png
-  teaser: /assets/images/middle-woman-th.png
+  image: /assets/images/middle-woman-ban.png
+  teaser: /assets/images/middle-woman-ban-th.png
   cta_label: "Hire me"
   cta_url: "https://unsplash.com"
 tags:
