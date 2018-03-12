@@ -23,6 +23,7 @@ For me, the internet is an amazing place and community where you can learn anyth
 {: .text-justify}
 
 That's where I want to offer you my help ! 
+{: .text-center}
 
 {% capture notice-text-1 %}
 ## What I do: 
@@ -40,10 +41,6 @@ That's where I want to offer you my help !
 - concise report of what I worked on
 {% endcapture %}
 
-<div class="notice--warning">
-  {{ notice-text-1 | markdownify }}
-</div>
-
 {% capture notice-text-2 %}
 ## What you get : 
 - individual support documentations (video and text) 
@@ -53,9 +50,6 @@ That's where I want to offer you my help !
 - concise report of what I worked on
 {% endcapture %}
 
-<div class="notice--success">
-  {{ notice-text-2 | markdownify }}
-</div>
 
 {% capture notice-text-3 %}
 ## My process : 
@@ -66,11 +60,6 @@ Nobody have time for endless discussion and 2 page-long emails.
 4. Hand over all the documents and information to you.
 5. Stay in touch after the job to check on you :)
 {% endcapture %}
-
-
-<div class="notice--info">
-  {{ notice-text-3 | markdownify }}
-</div>
 
 ---
 
@@ -85,6 +74,7 @@ Nobody have time for endless discussion and 2 page-long emails.
          </div>
     </td>
 </table>
+
 <div class="notice--info">
  {{ notice-text-3 | markdownify }}
  </div>
@@ -95,6 +85,9 @@ Nobody have time for endless discussion and 2 page-long emails.
 {: .text-center}
 
 ## Portfolio : 
+
+[The Starius Project](https://zuperninja.github.io/blog/portfolio/portfolio-the-starius-project/)
+
 
 
 
