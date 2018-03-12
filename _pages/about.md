@@ -3,13 +3,15 @@ layout: splash
 permalink: /about/
 title: "About"
 excerpt: "Zuper Ninja can help you be build your presence online and guide you through the world wild web"
-feature_row:
-    - title: "What I do:"
-      excerpt: "Bla"
-    - title: "What you get:"
-      excerpt: "Bloub"
-    - title: "The process: "
-      excerpt: "blip"
+header:
+  image: /assets/images/portfolio/middle-woman.png
+  teaser: /assets/images/portfolio/middle-woman-th.png
+  cta_label: "Hire me"
+  cta_url: "https://unsplash.com"
+tags:
+  - "Website"
+categories:
+  - "Middle Woman for Online Stuff"
 ---
 
 Hi Internet People !
