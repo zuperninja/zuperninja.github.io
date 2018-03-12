@@ -38,8 +38,6 @@ feature_row:
 ## Share // never forget 
 {: .text-center}
 
-{% include feature_row %}
-
 
 Je me promène dans plusieurs secteurs et région du monde à la recherche de skills, d'expérience et de snack.
 [OpenFab](http://openfab.be) m'a permis de faire mes armes pendant plusieurs années. Aspirante guru du Quick&Dirty et de la sieste, J'explore le web et les utility stores.
@@ -55,6 +53,8 @@ Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris
 Mercenary baker, builder and web designer. I write my projects down in the form of [quests.](blog/portfolio/)
 {: .text-justify}
 
+
+{% include feature_row %}
 
 
 
