@@ -44,7 +44,7 @@ That's where I want to offer you my help !
 - creative and easy way to complete your goals
 - general homemade tips and methods
 - concise report of what I worked on
-</br>
+</br></br>
 {% endcapture %}
 
 
