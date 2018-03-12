@@ -3,8 +3,8 @@ layout: splash
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
 header:
-  image: /assets/images/banniere_zuperninja1.png
-  teaser: /assets/images/banniere_zuperninja1.png
+  image: /assets/images/landing-ban.png
+  teaser: /assets/images/landing-ban.png
 feature_row:
   - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
