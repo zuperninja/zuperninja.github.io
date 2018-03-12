@@ -53,6 +53,8 @@ Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris
 Mercenary baker, builder and web designer. I write my projects down in the form of [quests.](blog/portfolio/)
 {: .text-justify}
 
+{: .text-center}
+[I'm doing some stuff](/blog/year-archive/){: .btn .btn--warning .btn--large}
 
 {% include feature_row %}
 
