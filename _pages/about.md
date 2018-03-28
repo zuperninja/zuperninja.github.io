@@ -7,7 +7,7 @@ header:
   image: /assets/images/landing-ban.png
   overlay: /assets/images/middle-woman-ban.png
   cta_label: "Hire me"
-  cta_url: "https://unsplash.com"
+  cta_url: "https://google.com"
 tags:
   - "Website"
 categories:
@@ -62,18 +62,29 @@ Nobody have time for endless discussion and 2 page-long emails.
 <table>
     <td> 
       <h2>What I do: </h2>
-         <div class="notice--warning">
-         {{ notice-text-1 | markdownify }}
+- guide you through all these web marketing strategy shenanigans (SEO, storytelling, etc)
+- help you find the platform you need for selling your art
+- build a website for your new activity
+- teach you how to use socials networks for your events
+- show you how to use free and legal resources and softwares
+- and all the boring technical stuff you don't want to know about
          </div>
       <h2>What you get: </h2>
-         <div class="notice--success">
-         {{ notice-text-2 | markdownify }}
+- individual support documentations (video and text) 
+- a cup of tea (or coffee)
+- creative and easy way to complete your goals
+- general homemade tips and methods
+- concise report of what I worked on
          </div>
     </td>
     <td> 
       <h2>My process: </h2>
-       <div class="notice--info">
-       {{ notice-text-3 | markdownify }}
+Nobody have time for endless discussion and 2 page-long emails. 
+1. I will send you a first email with some basics questions, your responses will narrow down what you need. 
+2. We can have a 30 minutes meetings to prepare what we will do and lay down a timeline. 
+3. Get to it together or during a solo mission.
+4. Hand over all the documents and information to you.
+5. Stay in touch after the job to check on you :)
        </div>
     </td>
 </table>
