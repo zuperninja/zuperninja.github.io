@@ -5,7 +5,6 @@ title: "Your Middle Woman for Online Stuff"
 excerpt: "Zuper Ninja can help you build your presence online and guide you through the world wild web."
 header:
   overlay_image: /assets/images/landing-ban.png
-  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Camille Pesquer**](http://candid-lens.format.com/)"
   cta_label: "Contact me"
   cta_url: "https://zuperninja.github.io/blog/contact"
@@ -42,7 +41,8 @@ I used to teach computer skills to adult, and help my friends naviguate the worl
 For me, the internet is an amazing place and community where you can learn anything you want. Sometimes it's just too much and the first steps are hard to climb. It's easy to get lost and feel  frustrated. I remember my students who wanted to quit when a message pop-up on their screens, or when they wanted to display a picture on their website and it breaks all their layout ! That sucks, and it's easy to quit if you are by yourself, or don't have time.
 {: .text-justify}
 
-That's where I want to offer you my help ! 
+That's where I want to offer you my help !  
+{: .notice--success} 
 {: .text-center}
 
 <table>
@@ -87,7 +87,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 
 
  
-[Contact me, it will be fun !](#link){: .btn .btn--primary}
+[Contact me, it will be fun !](#link){: .btn .btn--inverse .btn--x-large}
 {: .text-center}
 
 ## Portfolio : 
