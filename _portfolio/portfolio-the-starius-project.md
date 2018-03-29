@@ -2,7 +2,7 @@
 title: "The Starius Project"
 excerpt: "Create a website in a short period of time in Wordpress."
 header:
-  image: /assets/images/portfolio/starius-project.png
+  overlay_image: /assets/images/portfolio/stariusproject-ban.png
   teaser: /assets/images/portfolio/starius-project-th.png
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
@@ -55,12 +55,13 @@ I worked on a graphic chart to harmonize all of the future content, based on the
 <table>
     <tr>
         <td>
-            <img src="https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png"></img>
+            <img src="https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png"/>
         </td>
         <td>
-        <img src="https://user-images.githubusercontent.com/25099826/38077047-c17c963e-3361-11e8-84b1-4ad7c67604e4.png"></img>
+            <img src="https://user-images.githubusercontent.com/25099826/38077047-c17c963e-3361-11e8-84b1-4ad7c67604e4.png"/>
         </td>
     </tr>
+</table>
 
 
 ## Resources: 
