@@ -54,6 +54,10 @@ I worked on a graphic chart to harmonize all of the future content, based on the
 
 ![image-center](https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png){: .align-center}
 
+
+![image](https://user-images.githubusercontent.com/25099826/38072772-20dc93e6-3352-11e8-85db-fa21ba05295a.png)
+
+
 ## Resources: 
 
 For the social media icons I used [FontAwesome](https://fontawesome.com/)
