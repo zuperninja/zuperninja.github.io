@@ -51,11 +51,15 @@ I spent 1.5 hours to discover and explore the theme ([Pinnacle by Kadence](https
 I then added the plugin we needed, and uninstalled the useless ones. This way, it will be easier for [@ElectroGuyMika](https://github.com/electroguymika) to focus on updating his online content, without having to worry about the technical stuff.
 
 I worked on a graphic chart to harmonize all of the future content, based on the artwork he gave me. And yes, I really dig the pink neon colour!
-
+<table>
+  <td>
 ![image-center](https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png){: .align-center}
-
-
-![image](https://user-images.githubusercontent.com/25099826/38072772-20dc93e6-3352-11e8-85db-fa21ba05295a.png)
+  </td>
+  <td>
+![screenshot_stariusproject](https://user-images.githubusercontent.com/25099826/38077047-c17c963e-3361-11e8-84b1-4ad7c67604e4.png){: .align-center}
+  </td>
+</table>
+    
 
 
 ## Resources: 
