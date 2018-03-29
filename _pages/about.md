@@ -5,8 +5,10 @@ title: "Your Middle Woman for Online Stuff"
 excerpt: "Zuper Ninja can help you build your presence online and guide you through the world wild web."
 header:
   overlay_image: /assets/images/landing-ban.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Camille Pesquer**](http://candid-lens.format.com/)"
+  cta_label: "Contact me"
+  cta_url: "https://zuperninja.github.io/blog/contact"
 tags:
   - "Website"
 categories:
