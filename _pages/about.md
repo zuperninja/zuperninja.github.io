@@ -1,10 +1,12 @@
 ---
 layout: splash
 permalink: /about/
-title: "About"
-excerpt: "Zuper Ninja can help you be build your presence online and guide you through the world wild web."
+title: "Your Middle Woman for Online Stuff"
+excerpt: "Zuper Ninja can help you build your presence online and guide you through the world wild web."
 header:
-  overlay_color: "#333"
+  overlay_image: /assets/images/landing-ban.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_url: "https://unsplash.com"
 tags:
   - "Website"
 categories:
@@ -71,14 +73,13 @@ That's where I want to offer you my help !
 
 <h2>My process: </h2>
 {: .text-center}
-      <ol>
-        <p>Nobody have time for endless discussion and 2 page-long emails. </p>
-        <li>I will send you a first email with some basics questions, your responses will narrow down what you need. </li>
-        <li>We can have a 30 minutes meetings to prepare what we will do and lay down a timeline. </li>
-        <li>Get to it together or during a solo mission.</li>
-        <li>Hand over all the documents and information to you.</li>
-        <li>Stay in touch after the job to check on you :)</li>
-       </ol>
+Nobody have time for endless discussion and 2 page-long emails.
+1. I will send you a first email with some basics questions, your responses will narrow down what you need.
+2. We can have a 30 minutes meetings to prepare what we will do and lay down a timeline.
+3. Get to it together or during a solo mission.
+4. Hand over all the documents and information to you.
+5. Stay in touch after the job to check on you :)
+
 
 
 
