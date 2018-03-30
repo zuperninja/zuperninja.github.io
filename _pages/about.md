@@ -79,21 +79,15 @@ Nobody have time for endless discussion and 2 page-long emails.
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
 5. Stay in touch after the job to check on you :)
-{: .notice--success} 
-
-
-
-</br>
-</br>
-
-
-
  
+  
+   
+   
 [Contact me, it will be fun !](#link){: .btn .btn--inverse .btn--x-large}
 {: .text-center}
-
-</br>
-
+ 
+  
+  
 ## Portfolio : 
 
 {% include feature_row %}
