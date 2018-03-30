@@ -84,28 +84,29 @@ I worked on a graphic chart to harmonize all of the future content, based on the
     </tr>
     <tr>
         <td>
-For the social media icons I used [FontAwesome](https://fontawesome.com/)
-<br>
-For creating the graphic content I used [Inkscape](https://inkscape.org)
+          <p>
+            For the social media icons I used <a href="https://fontawesome.com/">FontAwesome</a><br>
+            For creating the graphic content I used <a href="https://inkscape.org">Inkscape</a>
         </td>
         <td>
-- Add content 
-- Speed up & optimize 
-- Add new fonts 
-- Ease in-out scroll 
-- Publish gallery grid (waiting for the photo shoot) 
-- Optimize responsive design
-- Create tutorials for adding more content 
-- Add a fav icon 
+          <ul>
+            <li>Add content </li>
+            <li>Speed up & optimize </li>
+            <li>Add new fonts</li>
+            <li>Ease in-out scroll</li>
+            <li>Publish gallery grid (waiting for the photo shoot)</li>
+            <li>Optimize responsive design</li>
+            <li>Create tutorials for adding more content</li>
+            <li>Add a favicon<li>
+          </ul>
         </td>
         <td>
-Phase 1:  approx. 14 hours
-
-Phase 2: coming soon
-
-URL: [thestariusproject.com](http://thestariusproject.com/)
-
-Time report : [Toggl_time_entries.pdf](https://github.com/zuperninja/blog/files/1743706/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
+          <p>
+            Phase 1:  approx. 14 hours<br>
+            Phase 2: coming soon<br>
+            URL: <a href="http://thestariusproject.com/">thestariusproject.com</a><br>
+            Time report : <a href="https://github.com/zuperninja/blog/files/1743706/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf">Toggl_time_entries.pdf</a>
+</p>
       </td>
     </tr>
 </table>
