@@ -72,7 +72,6 @@ That's where I want to offer you my help !
   </tr>
   </tbody>
 </table>
-<div>
 <h2>My process: </h2>
 Nobody have time for endless discussion and 2 page-long emails.
 1. I will send you a first email with some basics questions, your responses will narrow down what you need.
@@ -80,11 +79,12 @@ Nobody have time for endless discussion and 2 page-long emails.
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
 5. Stay in touch after the job to check on you :)
-  </div>{: .notice--success} 
+{: .notice--success} 
 
 
 
-
+</br>
+</br>
 
 
 
@@ -92,7 +92,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 [Contact me, it will be fun !](#link){: .btn .btn--inverse .btn--x-large}
 {: .text-center}
 
-
+</br>
 
 ## Portfolio : 
 
