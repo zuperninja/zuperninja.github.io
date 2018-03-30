@@ -13,6 +13,10 @@ categories:
 related: true
 
 ---
+&nbsp;
+
+# The Starius Project: Designing, facilitating and building the foundations
+&nbsp;
 
 [@ElectroGuyMika](https://github.com/electroguymika) needed help to design and add some content to his website before the [Maker Faire Lille](https://lille.makerfaire.com/) event. (Where he wanted to introduce his new prototype.)
 
