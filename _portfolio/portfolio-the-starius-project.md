@@ -67,7 +67,8 @@ I worked on a graphic chart to harmonize all of the future content, based on the
     </tr>
 </table>
 
-
+[Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
+{: .text-center}
 
 <table>
     <tr>
@@ -108,12 +109,4 @@ Time report : [Toggl_time_entries.pdf](https://github.com/zuperninja/blog/files/
       </td>
     </tr>
 </table>
-
-
-
-
-
-
-[Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
-{: .text-center}
 
