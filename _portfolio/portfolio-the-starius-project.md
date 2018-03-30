@@ -73,22 +73,17 @@ I worked on a graphic chart to harmonize all of the future content, based on the
   <table>
     <tr>
         <td>
-        <h2>Resources: </h2>
+        <h3>Next steps:</h3>
         </td>
         <td>
-        <h2>Next steps:  </h2>
+        <h3>Resources:</h3>
         </td>
         <td>
-        <h2>Info: </h2>     
+        <h3>Info:</h3>     
         </td>
     </tr>
     <tr>
-        <td>
-          <p>For the social media icons I used <a href="https://fontawesome.com/">FontAwesome</a><br>
-            For creating the graphic content I used <a href="https://inkscape.org">Inkscape</a></p>
-        </td>
-        <td>
-          <ul>
+        <td><ul>
             <li>Add content </li>
             <li>Speed up & optimize </li>
             <li>Add new fonts</li>
@@ -97,7 +92,10 @@ I worked on a graphic chart to harmonize all of the future content, based on the
             <li>Optimize responsive design</li>
             <li>Create tutorials for adding more content</li>
             <li>Add a favicon</li>
-          </ul>
+          </ul></td>
+        <td>
+            <p>For the social media icons I used <a href="https://fontawesome.com/">FontAwesome</a><br>
+            For creating the graphic content I used <a href="https://inkscape.org">Inkscape</a></p>
         </td>
         <td>
           <p>
