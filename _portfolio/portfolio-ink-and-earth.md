@@ -67,3 +67,6 @@ URL: [inkandearth.com](http://www.inkandearth.com/)
 
 Worktime: [Toggl_time_entries_2018-01-01_to_2018-12-31.pdf](https://github.com/zuperninja/blog/files/1858360/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
 
+[Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
+{: .text-center}
+
