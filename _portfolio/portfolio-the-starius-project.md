@@ -70,7 +70,7 @@ I worked on a graphic chart to harmonize all of the future content, based on the
 [Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
 
-<table>
+  <table>
     <tr>
         <td>
         <h2>Resources: </h2>
@@ -108,4 +108,4 @@ I worked on a graphic chart to harmonize all of the future content, based on the
           </p>
       </td>
     </tr>
-</table>
+   </table>
