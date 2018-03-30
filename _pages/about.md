@@ -84,7 +84,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 
 &nbsp;
 
-[Contact me, it will be fun !](#link){: .btn .btn--inverse .btn--x-large}
+[Contact me, it will be fun !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
 
 &nbsp;
