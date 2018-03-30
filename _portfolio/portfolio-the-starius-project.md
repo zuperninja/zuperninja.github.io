@@ -97,7 +97,7 @@ I worked on a graphic chart to harmonize all of the future content, based on the
             <li>Publish gallery grid (waiting for the photo shoot)</li>
             <li>Optimize responsive design</li>
             <li>Create tutorials for adding more content</li>
-            <li>Add a favicon<li>
+            <li>Add a favicon</li>
           </ul>
         </td>
         <td>
