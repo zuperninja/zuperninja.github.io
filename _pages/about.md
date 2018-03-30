@@ -14,17 +14,17 @@ categories:
   - "Middle Woman for Online Stuff"
   
 feature_row:
-  - image_path: /assets/images/portfolio/starius-project-th.png
+  - image_path: /assets/images/portfolio/stariusproject-th.png
     alt: "The Starius Project"
     title: "The Starius Project"
     excerpt: "Create a website in a short period of time in Wordpress."
     url: "https://zuperninja.github.io/blog/portfolio/portfolio-the-starius-project/"
-    btn_label: "Read More"
+    btn_label: "Read more"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/portfolio/inkearth-th.png
     alt: "Ink & Earth"
     title: "Ink & Earth"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Build a website for reaching a more professionnal oriented audience."
     url: "https://zuperninja.github.io/blog/portfolio/portfolio-ink-and-earth/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -72,15 +72,17 @@ That's where I want to offer you my help !
   </tr>
   </tbody>
 </table>
-
+<div>
 <h2>My process: </h2>
-{: .text-center}
 Nobody have time for endless discussion and 2 page-long emails.
 1. I will send you a first email with some basics questions, your responses will narrow down what you need.
 2. We can have a 30 minutes meetings to prepare what we will do and lay down a timeline.
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
 5. Stay in touch after the job to check on you :)
+  </div>{: .notice--success} 
+
+
 
 
 
@@ -89,6 +91,8 @@ Nobody have time for endless discussion and 2 page-long emails.
  
 [Contact me, it will be fun !](#link){: .btn .btn--inverse .btn--x-large}
 {: .text-center}
+
+
 
 ## Portfolio : 
 
