@@ -3,7 +3,7 @@ title: "The Starius Project"
 excerpt: "Create a website in a short period of time in Wordpress."
 header:
   overlay_image: /assets/images/portfolio/stariusproject-ban.png
-  teaser: /assets/images/portfolio/starius-project-th.png
+  teaser: /assets/images/portfolio/stariusproject-th.png
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 tags:
@@ -21,7 +21,7 @@ The website had to be simple: one landing page with a contact form. The goals we
 
 My job was to put the website together, in a short period of time and without much content. And of course, to create the documentation for him to be able to manage the website on his own.
 
-Another challenge was to find the aesthetic he was looking for: [VaporWave](https://en.wikipedia.org/wiki/Vaporwave)! A led-based, retro and colourful light painting can-thingy. The design of the website had to match the product. The challenge was to provide a smooth and efficient yet 60-70s inspired, nostalgic and neon-friendly website. 
+Another challenge was to find the aesthetic he was looking for: [VaporWave !](https://en.wikipedia.org/wiki/Vaporwave) A led-based, retro and colourful light painting can-thingy. The design of the website had to match the product. The challenge was to provide a smooth and efficient yet 60-70s inspired, nostalgic and neon-friendly website. 
 
 ## Process: 
 
@@ -82,7 +82,7 @@ For creating the graphic content I used [Inkscape](https://inkscape.org)
 - Create tutorials for adding more content 
 - Add a fav icon 
 
-## WIP: 
+## Info: 
 
 Phase 1:  approx. 14 hours
 
@@ -91,3 +91,8 @@ Phase 2: coming soon
 URL: [thestariusproject.com](http://thestariusproject.com/)
 
 Time report : [Toggl_time_entries.pdf](https://github.com/zuperninja/blog/files/1743706/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
+
+
+[Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
+{: .text-center}
+
