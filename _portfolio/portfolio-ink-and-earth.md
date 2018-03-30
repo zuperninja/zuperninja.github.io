@@ -35,6 +35,10 @@ We spent two hours together to talk about her business goals and web marketing. 
 She already knew what design and vibe she wanted. She showed me some website she likes, and that's it ! I didn't have to think to much about the design, and just respect her vision and align everything.
 
 We spent 5 hours together were she learned how to use this platform and upload her own content. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVO8GOYivSWZiqVLPDmmVkGZF-uPtes2v" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 After this day of teaching/coaching, I tweaked the CSS and change the template
 
 We first used the "Wexley" template but we couldn't quickly add caption to the lightbox. We made the choice to spent some time changing the template for gaining time when she will update her content later. A better preparation for a quicker process. The Flatiron template was kind of the same design and did a better job for the galleries.
