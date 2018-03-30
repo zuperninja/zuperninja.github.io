@@ -14,20 +14,20 @@ categories:
   - "Middle Woman for Online Stuff"
   
 feature_row:
+  - image_path: /assets/images/portfolio/inkandearth-th.png
+    alt: "Ink & Earth"
+    title: "Ink & Earth"
+    excerpt: "Build a website for reaching a more professionnal oriented audience."
+    url: "https://zuperninja.github.io/blog/portfolio/portfolio-ink-and-earth/"
+    btn_label: "Read the full process"
+    btn_class: "btn--primary"
   - image_path: /assets/images/portfolio/stariusproject-th.png
     alt: "The Starius Project"
     title: "The Starius Project"
     excerpt: "Create a website in a short period of time in Wordpress."
     url: "https://zuperninja.github.io/blog/portfolio/portfolio-the-starius-project/"
-    btn_label: "Read more"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/portfolio/inkearth-th.png
-    alt: "Ink & Earth"
-    title: "Ink & Earth"
-    excerpt: "Build a website for reaching a more professionnal oriented audience."
-    url: "https://zuperninja.github.io/blog/portfolio/portfolio-ink-and-earth/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_label: "Read the full process"
+    btn_class: "btn--primary"
 
 ---
 
@@ -79,16 +79,21 @@ Nobody have time for endless discussion and 2 page-long emails.
 3. Get to it together or during a solo mission.
 4. Hand over all the documents and information to you.
 5. Stay in touch after the job to check on you :)
- 
-  
-   
-   
+
+&nbsp;
+
+&nbsp;
+
 [Contact me, it will be fun !](#link){: .btn .btn--inverse .btn--x-large}
 {: .text-center}
+
+&nbsp;
+
+&nbsp;
  
-  
-  
 ## Portfolio : 
+
+&nbsp;
 
 {% include feature_row %}
 
