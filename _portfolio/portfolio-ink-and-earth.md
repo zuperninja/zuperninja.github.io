@@ -37,7 +37,7 @@ She already knew what design and vibe she wanted. She showed me some website she
 We spent 5 hours together were she learned how to use this platform and upload her own content. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLVO8GOYivSWZiqVLPDmmVkGZF-uPtes2v" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+&nbsp;
 
 After this day of teaching/coaching, I tweaked the CSS and change the template
 
@@ -45,31 +45,46 @@ We first used the "Wexley" template but we couldn't quickly add caption to the l
 
 I had to do more CSS tweaking that I thought. I'm a little bit disapointed by Squarespace for not explaining clearly what features each templates have or not. When your client have to pay for a full service, it hurts a little bit. But nothing some research online can fix, and a few knowledge in CSS and HTML.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Femily00056%2Fposts%2F534482084096&width=500" width="500" height="549" style="border:none;overflow:hidden;display:block" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<div style="display:block;"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Femily00056%2Fposts%2F534482084096&width=500" width="500" height="549" style="border:none;overflow:hidden;display:block" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
+&nbsp;
 
-## Resources:
-
-[Squarespace's forum](https://answers.squarespace.com/index.html)
-
-[Template comparison chart by a very patient person](https://www.usingmyhead.com/squarespace/squarespace-7-template-comparison-chart/)
-
-## Next steps:
-
-- add custom font
-- tweak the gallery again
-- optimize the SEO cross platform
-- remplace social icon (bug with adblock)
-
-## Info:
-
-Phase 1: 9.5h
-
-Phase 2: coming in april
-
-URL: [inkandearth.com](http://www.inkandearth.com/)
-
-Worktime: [Toggl_time_entries_2018-01-01_to_2018-12-31.pdf](https://github.com/zuperninja/blog/files/1858360/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
 
 [Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
+&nbsp;
+
+
+  <table>
+    <tr>
+        <td>
+        <h3>Next steps:</h3>
+        </td>
+        <td>
+        <h3>Resources:</h3>
+        </td>
+        <td>
+        <h3>Info:</h3>     
+        </td>
+    </tr>
+    <tr>
+        <td><ul>
+            <li>Add custom font </li>
+            <li>Tweak the gallery again</li>
+            <li>Optimize the cross platform SEO</li>
+            <li>remplace social icon (bug with adblock)</li>
+        </ul></td>
+        <td>
+          <p><a href="https://answers.squarespace.com/index.html">Squarespace's forum</a><br>
+             <a href="https://www.usingmyhead.com/squarespace/squarespace-7-template-comparison-chart/">Template comparison chart by a very patient person</a>
+        </td>
+        <td>
+          <p>
+            Phase 1:  9.5 hours<br>
+            Phase 2: coming in April<br>
+            URL: <a href="http://inkandearth.com/">inkandearth.com</a><br>
+            Time report : <a href="https://github.com/zuperninja/blog/files/1858360/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf">Toggl_time_entries.pdf</a>
+          </p>
+      </td>
+    </tr>
+   </table>
 
