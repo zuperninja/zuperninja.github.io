@@ -56,7 +56,7 @@ I then added the plugin we needed, and uninstalled the useless ones. This way, i
 
 I worked on a graphic chart to harmonize all of the future content, based on the artwork he gave me. And yes, I really dig the pink neon colour!
 
-<table>
+   <table>
     <tr>
         <td>
             <img src="https://user-images.githubusercontent.com/25099826/36471722-156dc954-1722-11e8-96ac-a7b260080b8b.png"/>
@@ -65,7 +65,7 @@ I worked on a graphic chart to harmonize all of the future content, based on the
             <img src="https://user-images.githubusercontent.com/25099826/38077047-c17c963e-3361-11e8-84b1-4ad7c67604e4.png"/>
         </td>
     </tr>
-</table>
+   </table>
 
 [Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
@@ -84,9 +84,8 @@ I worked on a graphic chart to harmonize all of the future content, based on the
     </tr>
     <tr>
         <td>
-          <p>
-            For the social media icons I used <a href="https://fontawesome.com/">FontAwesome</a><br>
-            For creating the graphic content I used <a href="https://inkscape.org">Inkscape</a>
+          <p>For the social media icons I used <a href="https://fontawesome.com/">FontAwesome</a><br>
+            For creating the graphic content I used <a href="https://inkscape.org">Inkscape</a></p>
         </td>
         <td>
           <ul>
@@ -106,8 +105,7 @@ I worked on a graphic chart to harmonize all of the future content, based on the
             Phase 2: coming soon<br>
             URL: <a href="http://thestariusproject.com/">thestariusproject.com</a><br>
             Time report : <a href="https://github.com/zuperninja/blog/files/1743706/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf">Toggl_time_entries.pdf</a>
-</p>
+          </p>
       </td>
     </tr>
 </table>
-
