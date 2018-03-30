@@ -15,9 +15,8 @@ related: true
 ---
 &nbsp;
 
-&nbsp;
-
 # Ink & Earth: Coaching, teaching and tweaking CSS
+&nbsp;
 
 Ink & Earth needed a website to showcase her work in illustration. She already have a great funnel for her skinart through[ Instagram](https://www.instagram.com/ink.and.earth/) and [Facebook](https://www.facebook.com/inkandearthart). The next step was to build a website for reaching a more professionnal oriented audience.
 
