@@ -13,7 +13,8 @@ categories:
 related: true
 
 ---
-
+&NewLine;
+&NewLine;
 # Ink & Earth: Coaching, teaching and tweaking CSS
 
 Ink & Earth needed a website to showcase her work in illustration. She already have a great funnel for her skinart through[ Instagram](https://www.instagram.com/ink.and.earth/) and [Facebook](https://www.facebook.com/inkandearthart). The next step was to build a website for reaching a more professionnal oriented audience.
@@ -39,9 +40,12 @@ We first used the "Wexley" template but we couldn't quickly add caption to the l
 
 I had to do more CSS tweaking that I thought. I'm a little bit disapointed by Squarespace for not explaining clearly what features each templates have or not. When your client have to pay for a full service, it hurts a little bit. But nothing some research online can fix, and a few knowledge in CSS and HTML.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Femily00056%2Fposts%2F534482084096&width=500" width="500" height="549" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 ## Resources:
 
 [Squarespace's forum](https://answers.squarespace.com/index.html)
+
 [Template comparison chart by a very patient person](https://www.usingmyhead.com/squarespace/squarespace-7-template-comparison-chart/)
 
 ## Next steps:
@@ -59,5 +63,5 @@ Phase 2: coming in april
 
 URL: [inkandearth.com](http://www.inkandearth.com/)
 
-[Toggl_time_entries_2018-01-01_to_2018-12-31.pdf](https://github.com/zuperninja/blog/files/1858360/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
+Worktime: [Toggl_time_entries_2018-01-01_to_2018-12-31.pdf](https://github.com/zuperninja/blog/files/1858360/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
 
