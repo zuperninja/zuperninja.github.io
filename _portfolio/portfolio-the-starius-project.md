@@ -4,8 +4,8 @@ excerpt: "Create a website in a short period of time in Wordpress."
 header:
   overlay_image: /assets/images/portfolio/stariusproject-ban.png
   teaser: /assets/images/portfolio/stariusproject-th.png
-  cta_label: "More Info"
-  cta_url: "https://unsplash.com"
+  cta_label: "Go visit his website"
+  cta_url: "http://thestariusproject.com/"
 tags:
   - "Website"
 categories:
@@ -68,15 +68,26 @@ I worked on a graphic chart to harmonize all of the future content, based on the
 </table>
 
 
-## Resources: 
 
+<table>
+    <tr>
+        <td>
+        <h2>Resources: </h2>
+        </td>
+        <td>
+        <h2>Next steps:  </h2>
+        </td>
+        <td>
+        <h2>Info: </h2>     
+        </td>
+    </tr>
+    <tr>
+        <td>
 For the social media icons I used [FontAwesome](https://fontawesome.com/)
-
+<br>
 For creating the graphic content I used [Inkscape](https://inkscape.org)
-
-
-## Next steps: 
-
+        </td>
+        <td>
 - Add content 
 - Speed up & optimize 
 - Add new fonts 
@@ -85,9 +96,8 @@ For creating the graphic content I used [Inkscape](https://inkscape.org)
 - Optimize responsive design
 - Create tutorials for adding more content 
 - Add a fav icon 
-
-## Info: 
-
+        </td>
+        <td>
 Phase 1:  approx. 14 hours
 
 Phase 2: coming soon
@@ -95,6 +105,13 @@ Phase 2: coming soon
 URL: [thestariusproject.com](http://thestariusproject.com/)
 
 Time report : [Toggl_time_entries.pdf](https://github.com/zuperninja/blog/files/1743706/Toggl_time_entries_2018-01-01_to_2018-12-31.pdf)
+      </td>
+    </tr>
+</table>
+
+
+
+
 
 
 [Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
