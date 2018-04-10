@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--success"
   - image_path: /assets/images/landing_bake.png
     alt: "Women baking and eating cookies, Minneapolis 1954"
-    title: "Baker chief for my friends & family"
+    title: "Chef baker chief for friends & family"
     excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je profite de mes balades pour rechercher comment faire du bon pain, partout, et dans n'importe quelles conditions. Pain sur commande en France.![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) While travelling, I research how to make good bread, everywhere and under any conditions. Bread made to order in France."
     url: "https://www.facebook.com/okitchen.bxl/"
     btn_label: "Curation for food stuff"
