@@ -1,6 +1,5 @@
 ---
-layout: single
-  classes: wide
+layout: splash
 title: "Home"
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
@@ -25,8 +24,8 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/landing_bake.png
     alt: "Women baking and eating cookies, Minneapolis 1954"
-    title: "Baker <br/>"
-    excerpt: "![FR] Je recherche comment faire du pain en me promenant. Pain sur commande en France.![EN] I research how to do bread everywhere. Bread on order in France."
+    title: "Baker <br>"
+    excerpt: "Je recherche comment faire du pain en me promenant. Pain sur commande en France. ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png)I research how to do bread everywhere. Bread on order in France."
 
 ---
 
