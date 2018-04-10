@@ -3,19 +3,28 @@ layout: splash
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
 header:
-  overlay_image: /assets/images/ank-ban.png
+  image: /assets/images/ank-ban.png
   caption: "Photo credit: [**Ambre Lavandier**](http://ambrelavandier.tumblr.com/)"
 feature_row:
-  - image_path:
+ - image_path: /assets/images/landing_build.png
+    alt: "Women Carpenters, England 1941, © IWM (D 2701)"
+    caption: "Women Carpenters, England 1941, © IWM (D 2701)"
+    title: "Builder"
+    excerpt: "Je sais pas trop ce que je fais, mais ça l'air de marcher.    **//**    I don't know what I'm doing, but it kind of works."
+    url: "/blog/portfolio"
+    btn_label: "My portfolio"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/landing_web.png
     alt: "ENIAC, the world's first digital computer. Source : Los Alamos"
-    title: "Web's Middle woman"
+    title: "Your Middle Woman for Online Stuff"
     excerpt: "Je t'accompagne dans les méandres du web.    **//**    I will guide you into the world wild web."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/blog/about"
+    btn_label: "Hire me !"
     btn_class: "btn--inverse"
-  - image_path:
-
+  - image_path: /assets/images/landing_bake.png
+    alt: "Women baking and eating cookies, Minneapolis 1954"
+    title: "Baker"
+    excerpt: "Je recherche comment faire du pain en me promenant. Pain sur commande en France.    **//**    I research how to do bread everywhere. Bread on order in France."
 
 ---
 
