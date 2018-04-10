@@ -28,7 +28,8 @@ feature_row:
     title: "Baker chief for my friends & family"
     excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je recherche comment faire du pain en me promenant. Pain sur commande en France.
     &nbsp;
-
+    
+    &nbsp;
     ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I research how to do bread everywhere. Bread on order in France."
     url: "https://www.facebook.com/okitchen.bxl/"
     btn_label: "Curation for food stuff"
@@ -57,9 +58,6 @@ Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris
 
 &nbsp;
 
-&nbsp;
-
-
 ![EN] 
 {: .text-center}
 
@@ -75,9 +73,6 @@ Mercenary baker, builder and web designer. I write my projects down in the form 
 [Hire me for your project !](/about/){: .btn .btn--warning .btn--large}
 
 &nbsp;
-
-&nbsp;
-
 
 {% include feature_row %}
 
