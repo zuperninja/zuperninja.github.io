@@ -30,15 +30,18 @@ feature_row:
 
 ---
 
+[FR]:https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png
+[EN]:https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png
+
 ## Share // Never Forget 
 {: .text-center}
 
 
-Je me promène dans plusieurs secteurs et région du monde à la recherche de skills, d'expérience et de snacks.
+![FR]Je me promène dans plusieurs secteurs et région du monde à la recherche de skills, d'expérience et de snacks.
 [OpenFab](http://openfab.be) m'a permis de faire mes armes pendant plusieurs années. Aspirante guru du Quick&Dirty et de la sieste, J'explore le web et les utility stores.
 {: .text-justify}
 
-I'm exploring different topics and part of the world. To learn new skills, gain experience and taste snacks.
+![EN]I'm exploring different topics and part of the world. To learn new skills, gain experience and taste snacks.
 [OpenFab](http://openfab.be) was my first steps. Aspirant guru of Quick&Dirty and nap time. I wander through the internet and utility stores.
 {: .text-justify}
 
