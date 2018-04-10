@@ -4,8 +4,8 @@ title: "Home"
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
 header:
-  image: /assets/images/ank-ban.png
-  caption: "Photo credit: [**Ambre Lavandier**](http://ambrelavandier.tumblr.com/)"
+  image: /assets/images/landing-ban.png
+  caption: "Photo credit: [**Camille Pesquer**](http://candid-lens.format.com/)"
 feature_row:
   - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
