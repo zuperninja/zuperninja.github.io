@@ -1,14 +1,14 @@
 ---
 layout: splash
+title: "Home"
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
 header:
   image: /assets/images/ank-ban.png
   caption: "Photo credit: [**Ambre Lavandier**](http://ambrelavandier.tumblr.com/)"
 feature_row:
- - image_path: /assets/images/landing_build.png
+  - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
-    caption: "Women Carpenters, England 1941, © IWM (D 2701)"
     title: "Builder"
     excerpt: "Je sais pas trop ce que je fais, mais ça l'air de marcher.    **//**    I don't know what I'm doing, but it kind of works."
     url: "/blog/portfolio"
