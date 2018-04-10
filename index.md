@@ -10,7 +10,10 @@ feature_row:
   - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
     title: "A maker for the things I want to make"
-    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je sais pas trop ce que je fais, mais ça l'air de marcher.      
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je sais pas trop ce que je fais, mais ça l'air de marcher.
+    &nbsp;
+    
+    &nbsp;
     ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I don't know what I'm doing, but it kind of works."
     url: "/portfolio/"
     btn_label: "What I already built"
@@ -19,6 +22,9 @@ feature_row:
     alt: "ENIAC, the world's first digital computer. Source : Los Alamos"
     title: "Your Middle Woman for Online Stuff"
     excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je t'accompagne dans les méandres du web.  
+    &nbsp;
+    
+    &nbsp;
     ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I will guide you into the world wild web."
     url: "/about/"
     btn_label: "My process"
