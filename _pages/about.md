@@ -30,9 +30,9 @@ feature_row:
 ---
 
 # Your Middle Woman for Online Stuff
-### Zuper Ninja can help you build your presence online and guide you through the world wild web.
 
-Hi Internet People !
+
+### Hi Internet People !
 
 
 My name is Anne-Camille, aka Zuper Ninja. I spend most of my time online and making stuff on my computer or at my workbench. 
