@@ -43,17 +43,22 @@ feature_row:
 [OpenFab](http://openfab.be) m'a permis de faire mes armes pendant plusieurs années. Aspirante guru du Quick&Dirty et de la sieste, J'explore le web et les utility stores.
 {: .text-justify}
 
-Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris sous forme de [quêtes](/portfolio/) et mes trucs et astuces dans le [Ninja's Log.](/blog/year-archive/)
+![FR] Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris sous forme de [quêtes](/portfolio/) et mes trucs et astuces dans le [Ninja's Log.](/blog/year-archive/)
 {: .text-justify}
 
 {: .text-center}
 [Faites moi confiance pour votre projet !](/about/){: .btn .btn--warning .btn--large}
 
+
+![EN] 
+{: .text-center}
+
+
 ![EN] I'm exploring different topics and part of the world. To learn new skills, gain experience and taste snacks.
 [OpenFab](http://openfab.be) was my first steps. Aspirant guru of Quick&Dirty and nap time. I wander through the internet and utility stores.
 {: .text-justify}
 
-Mercenary baker, builder and web designer. I write my projects down in the form of [quests](/portfolio/) and my tips and tricks under the [Ninja's Log.](/blog/year-archive/)
+![EN] Mercenary baker, builder and web designer. I write my projects down in the form of [quests](/portfolio/) and my tips and tricks under the [Ninja's Log.](/blog/year-archive/)
 {: .text-justify}
 
 {: .text-center}
