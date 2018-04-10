@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+  classes: wide
 title: "Home"
 excerpt : "A website to show the thing I try to do, GitHub magic !"
 author_profile: false
