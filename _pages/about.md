@@ -4,8 +4,8 @@ permalink: /about/
 title: "Your Middle Woman for Online Stuff"
 excerpt: "Zuper Ninja can help you build your presence online and guide you through the world wild web."
 header:
-  overlay_image: /assets/images/landing-ban.png
-  caption: "Photo credit: [**Camille Pesquer**](http://candid-lens.format.com/)"
+  overlay_image: /assets/images/ank-ban.png
+  caption: "Photo credit: [**Ambre Lavandier**](http://ambrelavandier.tumblr.com/)"
   cta_label: "Contact me"
   cta_url: "https://zuperninja.github.io/blog/contact"
 tags:
