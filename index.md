@@ -11,8 +11,7 @@ feature_row:
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
     title: "Builder
     "
-    excerpt: "Je sais pas trop ce que je fais, mais ça l'air de marcher. 
-     
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je sais pas trop ce que je fais, mais ça l'air de marcher.      
     ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I don't know what I'm doing, but it kind of works."
     url: "/portfolio/"
     btn_label: "What I already built"
@@ -20,19 +19,15 @@ feature_row:
   - image_path: /assets/images/landing_web.png
     alt: "ENIAC, the world's first digital computer. Source : Los Alamos"
     title: "Your Middle Woman for Online Stuff"
-    excerpt: "Je t'accompagne dans les méandres du web. 
-     
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je t'accompagne dans les méandres du web.  
     ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I will guide you into the world wild web."
     url: "/about/"
     btn_label: "My process"
     btn_class: "btn--inverse"
   - image_path: /assets/images/landing_bake.png
     alt: "Women baking and eating cookies, Minneapolis 1954"
-    title: "Baker
-     
-     "
-    excerpt: "Je recherche comment faire du pain en me promenant. Pain sur commande en France. 
-     
+    title: "Baker"
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je recherche comment faire du pain en me promenant. Pain sur commande en France.      
     ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I research how to do bread everywhere. Bread on order in France."
 
 ---
@@ -51,9 +46,9 @@ feature_row:
 Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris sous forme de [quêtes](/portfolio/) et mes trucs et astuces dans le [Ninja's Log.](/blog/year-archive/)
 {: .text-justify}
 
+{: .text-center}
 [Faites moi confiance pour votre projet !](/about/){: .btn .btn--warning .btn--large}
 
-[Hire me for your project !](/about/){: .btn .btn--warning .btn--large}
 ![EN] I'm exploring different topics and part of the world. To learn new skills, gain experience and taste snacks.
 [OpenFab](http://openfab.be) was my first steps. Aspirant guru of Quick&Dirty and nap time. I wander through the internet and utility stores.
 {: .text-justify}
@@ -61,6 +56,7 @@ Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscris
 Mercenary baker, builder and web designer. I write my projects down in the form of [quests](/portfolio/) and my tips and tricks under the [Ninja's Log.](/blog/year-archive/)
 {: .text-justify}
 
+{: .text-center}
 [Hire me for your project !](/about/){: .btn .btn--warning .btn--large}
 
 {% include feature_row %}
