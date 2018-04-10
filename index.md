@@ -10,37 +10,21 @@ feature_row:
   - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
     title: "A maker for the things I want to make"
-    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je ne sais pas trop ce que je fais, mais ça a l'air de marcher.
-    
-    &nbsp;
-    
-    &nbsp;
-    
-    ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I don't know what I'm doing, but it seems to be working.
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je ne sais pas trop ce que je fais, mais ça a l'air de marcher.![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I don't know what I'm doing, but it seems to be working.
     url: "/portfolio/"
     btn_label: "What I have already built"
     btn_class: "btn--success"
   - image_path: /assets/images/landing_web.png
     alt: "ENIAC, the world's first digital computer. Source : Los Alamos"
     title: "Your Middle Woman for Online Stuff"
-    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je t'accompagne dans les méandres du web.  
-    &nbsp;
-    
-    &nbsp;
-    ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I will guide you through the World Wild Web."
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je t'accompagne dans les méandres du web. ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I will guide you through the World Wild Web."
     url: "/about/"
     btn_label: "My process"
     btn_class: "btn--success"
   - image_path: /assets/images/landing_bake.png
     alt: "Women baking and eating cookies, Minneapolis 1954"
     title: "Baker chief for my friends & family"
-    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je profite de mes balades pour rechercher comment faire du bon pain, partout, et dans n'importe quelles conditions. Pain sur commande en France.
-    
-    &nbsp;
-    
-    &nbsp;
-    
-    ![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) While travelling, I research how to make good bread, everywhere and under any conditions. Bread made to order in France."
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je profite de mes balades pour rechercher comment faire du bon pain, partout, et dans n'importe quelles conditions. Pain sur commande en France.![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) While travelling, I research how to make good bread, everywhere and under any conditions. Bread made to order in France."
     url: "https://www.facebook.com/okitchen.bxl/"
     btn_label: "Curation for food stuff"
     btn_class: "btn--success"
