@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/landing_build.png
     alt: "Women Carpenters, England 1941, © IWM (D 2701)"
     title: "A maker for the things I want to make"
-    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je ne sais pas trop ce que je fais, mais ça a l'air de marcher.![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I don't know what I'm doing, but it seems to be working.
+    excerpt: "![icons8_france_25px_1](https://user-images.githubusercontent.com/25099826/38572363-383b1b2a-3cf3-11e8-9c2c-47626e7eb523.png) Je ne sais pas trop ce que je fais, mais ça a l'air de marcher.![icons8_great_britain_25px](https://user-images.githubusercontent.com/25099826/38572348-2adf455a-3cf3-11e8-8b14-a0ef13f9c261.png) I don't know what I'm doing, but it seems to be working."
     url: "/portfolio/"
     btn_label: "What I have already built"
     btn_class: "btn--success"
