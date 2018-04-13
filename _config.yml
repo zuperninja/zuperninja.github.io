@@ -280,3 +280,6 @@ defaults:
       author_profile: false
       share: true
 
+# referencement
+plugins:
+  - jekyll-seo-tag
