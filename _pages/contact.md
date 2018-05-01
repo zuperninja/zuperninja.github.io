@@ -14,4 +14,10 @@ I want to hear your story and idea. You can contact me through here:
 
 &nbsp;
 
-<iframe src="https://framaforms.org/contact-1525167372" width="100%" height="800" border="0" ></iframe>  
+
+<form method="POST" action="https://formspree.io/annecamille.gilbert@gmail.com">
+  <input name="email" placeholder="Your email" type="email">
+  <input type="hidden" name="_subject" value="Formulaire de contact ZuperNinja" />
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
