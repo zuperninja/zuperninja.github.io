@@ -18,6 +18,6 @@ I want to hear your story and idea. You can contact me through this form and I w
   <input name="email" placeholder="Your email" style="font-size: 0.9em;box-shadow: 0px 0px 4px #d9d8e0;" type="email">
   <input name="_subject" value="Formulaire de contact ZuperNinja" type="hidden">
   <textarea name="message" placeholder="Your message" style="font-size: 0.9em;box-shadow: 0px 0px 4px #d9d8e0;"></textarea>
-  <button type="submit" style="font-size: 0.9em;box-shadow: 0px 0px 4px #d9d8e0;>Send</button>
+  <button type="submit" style="font-size: 0.9em;box-shadow: 0px 0px 4px #d9d8e0;">Send</button>
 </form>
 
