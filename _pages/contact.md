@@ -9,8 +9,8 @@ author_profile: true
 
 
 
-&nbsp;
 I want to hear your story and idea. You can contact me through this form and I will be back to you in a few. :heart:
+
 &nbsp;
 
 
