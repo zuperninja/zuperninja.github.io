@@ -13,3 +13,5 @@ main:
     url: /portfolio/
   - title: "Hireling"
     url: /about/
+  - title: "Contact Me !"
+    url: /contact/
