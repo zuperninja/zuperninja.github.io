@@ -13,8 +13,8 @@ I want to hear your stories and ideas. You can contact me through this form and 
 
 <form method="POST" action="https://formspree.io/annecamille.gilbert@gmail.com" style="background: transparent; border:none;">
   <input name="_subject" value="Formulaire de contact ZuperNinja" type="hidden">
-  <input name="email" placeholder="Your email" class="notice--info" type="email">
-  <textarea name="message" placeholder="Your message" class="notice--info"></textarea>
+  <input name="email" placeholder="Your email" class="notice" type="email">
+  <textarea name="message" placeholder="Your message" class="notice"></textarea>
   <button type="submit" class="btn btn--warning">SEND</button>
 </form>
 
