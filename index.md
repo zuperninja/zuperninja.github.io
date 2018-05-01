@@ -50,7 +50,7 @@ Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscrit
 &nbsp;
 
 {: .text-center}
-[Faites moi confiance pour votre projet !](/about/){: .btn .btn--warning .btn--large}
+[Faites moi confiance pour votre projet !](/blog/about/){: .btn .btn--warning .btn--large}
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Mercenary baker, builder and web designer. My [quests](/portfolio/) will guide y
 &nbsp;
 
 {: .text-center}
-[Hire me for your project!](/about/){: .btn .btn--warning .btn--large}
+[Hire me for your project!](/blog/about/){: .btn .btn--warning .btn--large}
 
 &nbsp;
 
