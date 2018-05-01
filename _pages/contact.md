@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /contact/
-title: ":mega: Contact me :envelope:"
+title: ":mega: Contact me :loudspeaker:"
 excerpt: "Zuper Ninja is here to listen to you and answer the best she can."
 author_profile: true
 
