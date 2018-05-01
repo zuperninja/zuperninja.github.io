@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /contact/
 title: "Contact me"
 excerpt: "Zuper Ninja is here to listen to you and answer the best she can."
