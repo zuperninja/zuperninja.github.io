@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /contact/
-title: "Contact me :heart:"
+title: ":heart: Contact me :heart:"
 excerpt: "Zuper Ninja is here to listen to you and answer the best she can."
 author_profile: true
 
