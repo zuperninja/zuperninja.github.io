@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /contact/
-title: ":mega: Contact me :loudspeaker:"
+title: "Contact me, it will be nice ! :loudspeaker:"
 excerpt: "Zuper Ninja is here to listen to you and answer the best she can."
 author_profile: true
 
@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-I want to hear your story and idea. You can contact me through this form and I will be back to you in a few. :heart:
+I want to hear your stories and ideas. You can contact me through this form and I will be back to you in a few. :heart:
 
 &nbsp;
 
