@@ -39,6 +39,9 @@ Créer par une association française Ardheîa, un logiciel avec feuille de déb
 
 [Page du logiciel](http://www.ardheia.fr/ardheia/index.php/ressources/zome-dome-et-cie)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3YPdE6htk8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
 https://www.youtube.com/watch?v=T3YPdE6htk8
 
 ## Mesures : Fusion 360
@@ -51,5 +54,5 @@ Lors de la construction des triangles de bases, avec la fatigue et la barrière 
 
 Sketch pour le triangle de base avec (normalement) les bonnes contraintes. [A télécharger](http://a360.co/2n4Rpi0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gn_qoHTbwDI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gn_qoHTbwDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
