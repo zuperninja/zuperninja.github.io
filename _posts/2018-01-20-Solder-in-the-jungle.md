@@ -6,7 +6,8 @@ tags:
   - "Zome"
 related: true
 header:
-  teaser: /assets/images/quete-zome/solder-jungle-th.png
+  teaser: /assets/images/quete-zome/solder-jungle-teaser.png
+  thumbnail: /assets/images/quete-zome/solder-jungle-th.png
 ---
 
 ## L'épopée : 
