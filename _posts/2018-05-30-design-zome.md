@@ -51,5 +51,5 @@ Lors de la construction des triangles de bases, avec la fatigue et la barrière 
 
 Sketch pour le triangle de base avec (normalement) les bonnes contraintes. [A télécharger](http://a360.co/2n4Rpi0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gn_qoHTbwDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gn_qoHTbwDI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
