@@ -106,13 +106,3 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
     </div>
   {% endfor %}
 </ul>
-<ul class="posts">
-{% for page in site.tags.Zome limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
-  <div class="post_info">
-    <li>
-         <a href="{{ page.url }}">{{ page.title }}</a>
-         <span>({{ page.date | date:"%Y-%m-%d" }})</span>
-    </li>
-    </div>
-  {% endfor %}
-</ul>
