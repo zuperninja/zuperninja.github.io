@@ -1,7 +1,9 @@
 ---
 title: Solder in the Jungle
 categories:
-  - "Stage Design : Zome"
+  - "Stage Design"
+tags:
+  - "Zome"
 related: true
 header:
   teaser: /assets/images/quete-zome/solder-jungle-th.png
