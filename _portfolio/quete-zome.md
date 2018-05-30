@@ -106,3 +106,4 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
     </li>
     </div>
   {% endfor %}
+</ul>
