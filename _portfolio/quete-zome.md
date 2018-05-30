@@ -102,17 +102,16 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
   <div class="post_info">
     <li>
          <a href="{{ post.url }}">{{ post.title }}</a>
-         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
     </li>
     </div>
   {% endfor %}
 </ul>
 <ul class="posts">
-{% for portoflio in site.tags.Zome limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
+{% for page in site.tags.Zome limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
   <div class="post_info">
     <li>
-         <a href="{{ portoflio.url }}">{{ portoflio.title }}</a>
-         <span>({{ portoflio.date | date:"%Y-%m-%d" }})</span>
+         <a href="{{ page.url }}">{{ page.title }}</a>
+         <span>({{ page.date | date:"%Y-%m-%d" }})</span>
     </li>
     </div>
   {% endfor %}
