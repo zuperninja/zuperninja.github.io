@@ -3,7 +3,9 @@ title: "Fabulous Paper Mache"
 header:
   teaser: /assets/images/quete-zome/papier-mache-th.png
 categories:
-  - "Stage Design : Zome"
+  - "Stage Design"
+tags:
+  - "Zome"
 related: true
 
 --- 
