@@ -8,8 +8,6 @@ related: true
 
 --- 
 
-# Comment réaliser le design d'un Zome ?
-
 Les zomes c'est chouette et très versatile. On peut en faire des maisons, des serres, de l'art ou même des scènes de festival. On a décidé [d'en faire une scène de festival ](https://zuperninja.github.io/blog/portfolio/quete-zome/)pour son côté aérien et organique. Et aussi car c'est toujours assez passionnant de travailler et découvrir la magie de la géométrie.
 
 La forme se base sur un assemblage de losanges en double spirale. La double spirale est très ancrée dans toutes les cultures comme une forme renvoyant à la force cosmique. Une simple recherche vous en dira plus. Pour que ça puisse être construit sur le sol, on coupe la double spirale au milieu (de façon horizontale).  Et voilà :) 
