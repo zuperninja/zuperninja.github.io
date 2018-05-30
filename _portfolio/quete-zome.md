@@ -12,6 +12,10 @@ related: true
 
 ---
  
+ 
+[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
+
+
 ## The Quest 
 
 Moving in Chiang Mai, I gravite around a group of friends involved in the art/music/magic festival [Jai Thep](http://jaithepfestival.com/). This year they went from 1 to 3 days with more stages. My friend Joshua wanted to build a Zome for the Chill Out stage. Obviously, I forced him to take me as a partner. 
