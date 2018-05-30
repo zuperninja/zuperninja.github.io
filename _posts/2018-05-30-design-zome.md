@@ -3,7 +3,9 @@ title: "Comment réaliser le design d'un Zome ?"
 header:
   teaser: /assets/images/quete-zome/papier-mache-th.png
 categories:
-  - "Stage Design : Zome"
+  - "zome"
+tag:
+  - "zome"
 related: true
 
 --- 
