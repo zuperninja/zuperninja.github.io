@@ -12,8 +12,8 @@ Les zomes c'est chouette et très versatile. On peut en faire des maisons, des s
 
 La forme se base sur un assemblage de losanges en double spirale. La double spirale est très ancrée dans toutes les cultures comme une forme renvoyant à la force cosmique. Une simple recherche vous en dira plus. Pour que ça puisse être construit sur le sol, on coupe la double spirale au milieu (de façon horizontale).  Et voilà :) 
 
-[https://simplydifferently.org/Zome](![image](https://user-images.githubusercontent.com/25099826/38748237-bd780152-3f4d-11e8-9811-286c4738ade9.png)
-![image](https://user-images.githubusercontent.com/25099826/38748247-c5b89304-3f4d-11e8-9fbe-02b1067bc3e2.png))
+<a href src="https://simplydifferently.org/Zome"><img src="https://user-images.githubusercontent.com/25099826/38748237-bd780152-3f4d-11e8-9811-286c4738ade9.png" />
+<img src="https://user-images.githubusercontent.com/25099826/38748247-c5b89304-3f4d-11e8-9fbe-02b1067bc3e2.png" /></a>
 
 
 [Plus de théorie par ici.](http://archilibre.org/ateliers/ennea/ennea.html)
