@@ -275,7 +275,7 @@ defaults:
       path: "_portfolio"
       type: portfolio
     values:
-      layout: splash
+      layout: single
       classes: wide
       author_profile: false
       share: true
