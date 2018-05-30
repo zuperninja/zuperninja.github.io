@@ -10,10 +10,12 @@ header:
   thumbnail: /assets/images/quete-zome/solder-jungle-th.png
 ---
 
-## L'épopée : 
 
 Je suis dans la jungle. J'ai appris à souder y a longtemps avec du bon matos. Ici tout change. 
 Pas vraiment de thune pour mettre de l'argent dans du matériel que je vais utiliser une fois. Et surtout du matériel dur à trouver, car, my bad, je sais pas parler thai. 
+
+
+## L'épopée : 
 
 J'ai pris un soldering gun à 350 Bath au crazy corner. 
 De l'étain et une tresse à dessouder des copains qui ont ramené ça ici. 
