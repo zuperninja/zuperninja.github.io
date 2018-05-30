@@ -1,3 +1,13 @@
+---
+title: "Comment réaliser le design d'un Zome ?"
+header:
+  teaser: /assets/images/quete-zome/papier-mache-th.png
+categories:
+  - "Stage Design : Zome"
+related: true
+
+--- 
+
 # Comment réaliser le design d'un Zome ?
 
 Les zomes c'est chouette et très versatile. On peut en faire des maisons, des serres, de l'art ou même des scènes de festival. On a décidé [d'en faire une scène de festival ](https://zuperninja.github.io/blog/portfolio/quete-zome/)pour son côté aérien et organique. Et aussi car c'est toujours assez passionnant de travailler et découvrir la magie de la géométrie.
