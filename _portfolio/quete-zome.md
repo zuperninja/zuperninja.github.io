@@ -4,10 +4,10 @@ excerpt: "We designed a stage for a festival in Thailand. A wood structure with 
 header:
   image: /assets/images/quete-zome/zome-cover.png
   teaser: /assets/images/quete-zome/zome-cover-th.png
-tags:
-  - "zome"
 categories:
-  - "Build"
+  - "Stage Design"
+tags:
+  - "Zome"
 related: true
 
 ---
