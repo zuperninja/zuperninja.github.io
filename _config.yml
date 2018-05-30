@@ -12,7 +12,7 @@ locale                   : "fr-BE"
 title                    : "Zuper Ninja" # titre du site qui s'affiche sur l'onglet et en haut à gauche de la page
 title_separator          : "-"
 name                     : "Repère du Zuper Ninja" # footer
-description              : "Out there to get snack" # description apparait dans moteur de recherche et metadonnées
+description              : "Out there to get snacks." # description apparait dans moteur de recherche et metadonnées
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/zuperninja"
+  github           : "zuperninja"
   gitlab           :
   google_plus      :
   keybase          :
