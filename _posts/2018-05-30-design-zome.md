@@ -4,7 +4,7 @@ header:
   teaser: /assets/images/quete-zome/papier-mache-th.png
 categories:
   - "zome"
-tag:
+tags:
   - "zome"
 related: true
 
