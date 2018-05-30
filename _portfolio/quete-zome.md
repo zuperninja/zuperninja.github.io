@@ -5,7 +5,7 @@ header:
   image: /assets/images/quete-zome/zome-cover.png
   teaser: /assets/images/quete-zome/zome-cover-th.png
 tags:
-  - "Stage Design : Zome"
+  - "zome"
 categories:
   - "Build"
 related: true
@@ -98,7 +98,7 @@ At the end it looked very nice ! And the area was a hit, a lot of people were ch
 ---
 ### Posts linked to this quest
 <ul class="posts">
-{% for post in site.tags."Stage Design : Zome" limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
+{% for post in site.tags.zome limit: 20 %}  <!-- change the name after site.tags.***** to select the tag -->
   <div class="post_info">
     <li>
          <a href="{{ post.url }}">{{ post.title }}</a>
