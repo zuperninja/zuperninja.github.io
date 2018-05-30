@@ -5,7 +5,7 @@ header:
   image: /assets/images/quete-zome/zome-cover.png
   teaser: /assets/images/quete-zome/zome-cover-th.png
 tags:
-  - "Stage Design : Zome"
+  - "zome"
 categories:
   - "Build"
 related: true
