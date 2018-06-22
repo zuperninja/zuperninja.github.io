@@ -1,5 +1,5 @@
 ---
-title: "Comment réaliser le design d'un Zome ?"
+title: " :mag_right: :pencil2: :hammer: Comment réaliser le design d'un Zome ?"
 header:
   teaser: /assets/images/quete-zome/design-zome-teaser.png
 categories:
