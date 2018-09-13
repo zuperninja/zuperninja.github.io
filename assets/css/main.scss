@@ -4,19 +4,5 @@
 
 @charset "utf-8";
 
-
-table {
-    font-size: 1em !important;
-    table-layout: fixed !important;
-}
-
-td {
-    border-bottom: none !important;
-    vertical-align: top !important;
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
-
