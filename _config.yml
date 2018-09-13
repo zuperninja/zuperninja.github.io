@@ -13,12 +13,12 @@ title                    : "Zuper Ninja" # titre du site qui s'affiche sur l'ong
 title_separator          : "-"
 name                     : "Repère du Zuper Ninja" # footer
 description              : "Out there to get snacks." # description apparait dans moteur de recherche et metadonnées
-url                      : "https://zuperninja.github.io/"
-baseurl                  : "/blog"
-repository               : "zuperninja/blog"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 150
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Zuper Ninja"
   avatar           : "/assets/images/bio-photo.jpg" # chemin de l'image profil sidebar e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Out there to get snacks."
+  bio              : "Out there to get snacks"
   location         : 
   email            :
   uri              :
