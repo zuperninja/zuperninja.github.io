@@ -13,13 +13,13 @@ related: true
 
 ![boxed-wine](https://user-images.githubusercontent.com/25099826/45484544-caa8dc00-b754-11e8-804a-b47b06802f1c.jpg)
 
+A friend let me stay in his apartment during one of my stays at [OpenFab](http://openfab.be/). He has a good bed, a cat and nice books. So you know, I wanted to thank him. My mom raised me right.
 
-A friend lend me his appartement during one of my stay at [OpenFab](http://openfab.be/). He have a good bed, a cat and nice books. So you know, I wanted to thank him. My mom rised me right.
 
 ## Process 
 
 I used the [TabbedBox extension](https://github.com/paulh-rnd/TabbedBoxMakerl) to build the vector file on inkscape, inspired by [Nicolas](https://nicolasdb.github.io/post/boxes/). 
-After generating the box with the good parameter (size, kerf, etc), I added a little bit of text, a good meme, a hole for the bag's spout, and a removable bottom. 
+After generating the box with the correct parameters (size, kerf, etc), I added a little bit of text, a good meme, a hole for the bag's spout, and a removable bottom. 
 
 I put a 3mm mdf in the lasercut:
 - [x] Engrave in orange = for the slide, then I trimmed the wood with a thin cisel. Setting : fill + fast
@@ -27,11 +27,11 @@ I put a 3mm mdf in the lasercut:
 
 ![image](https://user-images.githubusercontent.com/25099826/45483624-c16a4000-b751-11e8-9cb1-395c9fd8f47f.png)
 
-After that, change the side of one panel, and engrave your meme. (thanks Dewi for the help)
+After that, I flipped the side of one of the panels, and engraved the grumpy cat's meme. (thanks Dewi for your help)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IWfFQFqo32g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Upgrade's needs
+## Potential upgrades
 
 - Make a bigger hole for the bag's spout.
 - Add a nice varnish.
