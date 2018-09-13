@@ -35,6 +35,8 @@ categories:
 {: .text-center}
 &nbsp;
 
+[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
+
   <table>
    <tr>
     <td>

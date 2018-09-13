@@ -19,8 +19,12 @@ related: true
 
 --- 
 
-## Titre
+
 
 ## Titre
 
 ## Titre
+
+## Titre
+
+[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
