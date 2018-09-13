@@ -10,8 +10,6 @@ tags:
   - "Website"
 categories:
   - "Middle Woman for Online Stuff"
-related: true
-
 ---
 &nbsp;
 
@@ -49,7 +47,7 @@ I had to do more CSS tweaking that I thought. I'm a little bit disapointed by Sq
 &nbsp;
 
 
-[Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
+[Want something like that ? Contact me !](https://zuperninja.github.io/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
 &nbsp;
 
