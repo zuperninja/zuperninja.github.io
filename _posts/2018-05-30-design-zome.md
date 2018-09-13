@@ -9,7 +9,6 @@ tags:
 related: true
 
 --- 
-[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
 
 Les zomes c'est chouette et très versatile. On peut en faire des maisons, des serres, de l'art ou même des scènes de festival. On a décidé [d'en faire une scène de festival ](https://zuperninja.github.io/blog/portfolio/quete-zome/)pour son côté aérien et organique. Et aussi car c'est toujours assez passionnant de travailler et découvrir la magie de la géométrie.
 
@@ -57,3 +56,4 @@ Sketch pour le triangle de base avec (normalement) les bonnes contraintes. [A t�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gn_qoHTbwDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
+[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
