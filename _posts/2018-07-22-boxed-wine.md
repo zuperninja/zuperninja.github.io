@@ -9,11 +9,10 @@ related: true
 --- 
 
 
-_[Link to the Github's Issue for more information](https://github.com/zuperninja/zuperninja.github.io/issues/23)_
+
 
 ![boxed-wine](https://user-images.githubusercontent.com/25099826/45484544-caa8dc00-b754-11e8-804a-b47b06802f1c.jpg)
 
-## Context
 
 A friend lend me his appartement during one of my stay at [OpenFab](http://openfab.be/). He have a good bed, a cat and nice books. So you know, I wanted to thank him. My mom rised me right.
 
@@ -39,3 +38,4 @@ After that, change the side of one panel, and engrave your meme. (thanks Dewi fo
 - Don't do it last minute.
 - Design a better refill system.
 
+_[Link to the Github's Issue for more information](https://github.com/zuperninja/zuperninja.github.io/issues/23)_
