@@ -5,7 +5,7 @@ Dossier où uploader les images pour le site
 
 Thumbnail
 
-Teaser = 500x300px png
+Teaser pour related = 500x300px png
 
 Bannière
 
