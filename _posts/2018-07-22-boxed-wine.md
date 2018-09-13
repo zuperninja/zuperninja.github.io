@@ -18,8 +18,8 @@ I used the [TabbedBox extension](https://github.com/paulh-rnd/TabbedBoxMakerl) t
 After generating the box with the correct parameters (size, kerf, etc), I added a little bit of text, a good meme, a hole for the bag's spout, and a removable bottom. 
 
 I put a 3mm mdf in the lasercut:
-- [x] Engrave in orange = for the slide, then I trimmed the wood with a thin cisel. Setting : fill + fast
-- [x] Cut = green for the first cut. Black for the final cut. Why ? This way your wood doesn't move during the small cuts.
+- Engrave in orange = for the slide, then I trimmed the wood with a thin cisel. Setting : fill + fast
+- Cut = green for the first cut. Black for the final cut. Why ? This way your wood doesn't move during the small cuts.
 
 ![image](https://user-images.githubusercontent.com/25099826/45483624-c16a4000-b751-11e8-9cb1-395c9fd8f47f.png)
 
