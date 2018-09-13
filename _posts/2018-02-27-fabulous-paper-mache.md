@@ -9,7 +9,6 @@ tags:
 related: true
 
 --- 
-[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
 
 I never thought I will said that one day. But, man ! Papier-maché is flippin' amazing ! For different reasons :
 
