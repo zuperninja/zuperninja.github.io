@@ -8,13 +8,9 @@ related: true
 
 --- 
 
-
-
-
-![boxed-wine](https://user-images.githubusercontent.com/25099826/45484544-caa8dc00-b754-11e8-804a-b47b06802f1c.jpg)
-
 A friend let me stay in his apartment during one of my stays at [OpenFab](http://openfab.be/). He has a good bed, a cat and nice books. So you know, I wanted to thank him. My mom raised me right.
 
+![boxed-wine](https://user-images.githubusercontent.com/25099826/45484544-caa8dc00-b754-11e8-804a-b47b06802f1c.jpg)
 
 ## Process 
 
