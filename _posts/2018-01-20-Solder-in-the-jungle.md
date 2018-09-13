@@ -10,8 +10,6 @@ header:
   thumbnail: /assets/images/quete-zome/solder-jungle-th.png
 ---
 
-[Link to the Github's Issue for more information](https://github.com/zuperninja/blog/issues/1)
-
 Je suis dans la jungle. J'ai appris à souder y a longtemps avec du bon matos. Ici tout change. 
 Pas vraiment de thune pour mettre de l'argent dans du matériel que je vais utiliser une fois. Et surtout du matériel dur à trouver, car, my bad, je sais pas parler thai. 
 
