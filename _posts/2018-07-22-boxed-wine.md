@@ -1,9 +1,9 @@
 ---
 title: "Custom boxed wine V.1"
 header:
-  teaser: /assets/images/boxed-wine.png
+  teaser: /assets/images/boxed-wine-teaser.png
 categories:
-  - "build"
+  - "Build"
 related: true
 
 --- 
