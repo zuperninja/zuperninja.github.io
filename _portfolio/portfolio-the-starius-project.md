@@ -10,8 +10,6 @@ tags:
   - "Website"
 categories:
   - "Middle Woman for Online Stuff"
-related: true
-
 ---
 &nbsp;
 
@@ -67,7 +65,7 @@ I worked on a graphic chart to harmonize all of the future content, based on the
     </tr>
    </table>
 
-[Want something like that ? Contact me !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
+[Want something like that ? Contact me !](https://zuperninja.github.io/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
 
   <table>
