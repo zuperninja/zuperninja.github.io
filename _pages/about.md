@@ -16,14 +16,14 @@ feature_row:
     alt: "Ink & Earth"
     title: "Ink & Earth"
     excerpt: "Build a website for reaching a more professionnal oriented audience."
-    url: "https://zuperninja.github.io/blog/portfolio/portfolio-ink-and-earth/"
+    url: "https://zuperninja.github.io/portfolio/portfolio-ink-and-earth/"
     btn_label: "Read the full process"
     btn_class: "btn--primary"
   - image_path: /assets/images/portfolio/stariusproject-th.png
     alt: "The Starius Project"
     title: "The Starius Project"
     excerpt: "Create a website in a short period of time in Wordpress."
-    url: "https://zuperninja.github.io/blog/portfolio/portfolio-the-starius-project/"
+    url: "https://zuperninja.github.io/portfolio/portfolio-the-starius-project/"
     btn_label: "Read the full process"
     btn_class: "btn--primary"
 
@@ -85,7 +85,7 @@ Nobody have time for endless discussion and 2 page-long emails.
 
 &nbsp;
 
-[Contact me, it will be fun !](https://zuperninja.github.io/blog/contact/){: .btn .btn--warning .btn--x-large}
+[Contact me, it will be fun !](https://zuperninja.github.io/contact/){: .btn .btn--warning .btn--x-large}
 {: .text-center}
 
 &nbsp;
