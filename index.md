@@ -44,13 +44,13 @@ Je me promène dans plusieurs secteurs et régions du monde à la recherche de n
 [OpenFab](http://openfab.be) m'a permis de faire mes armes pendant plusieurs années. Aspirante guru du Quick&Dirty et de la sieste, j'explore le web et les supérettes.
 {: .text-justify}
 
-Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscrits sous forme de [quêtes,](/portfolio/) et mes trucs et astuces dans le [Ninja's Log.](/blog/year-archive/)
+Mercenaire boulanger, constructeur et web designer. Mes projets sont retranscrits sous forme de [quêtes,](/portfolio/) et mes trucs et astuces dans le [Ninja's Log.](/year-archive/)
 {: .text-justify}
 
 &nbsp;
 
 {: .text-center}
-[Faites moi confiance pour votre projet !](/blog/about/){: .btn .btn--warning .btn--large}
+[Faites moi confiance pour votre projet !](/about/){: .btn .btn--warning .btn--large}
 
 &nbsp;
 
@@ -62,13 +62,13 @@ I'm exploring various topics and parts of the world. To learn new skills, to gai
 I learned the basics and the important stuff with [OpenFab.](http://openfab.be) Aspirant guru of the Quick&Dirty and nap time. I wander through the internet and convenient stores.
 {: .text-justify}
 
-Mercenary baker, builder and web designer. My [quests](/portfolio/) will guide you through the projects I worked on, and you will find my tips and tricks under the [Ninja's Log.](/blog/year-archive/)
+Mercenary baker, builder and web designer. My [quests](/portfolio/) will guide you through the projects I worked on, and you will find my tips and tricks under the [Ninja's Log.](/year-archive/)
 {: .text-justify}
 
 &nbsp;
 
 {: .text-center}
-[Hire me for your project!](/blog/about/){: .btn .btn--warning .btn--large}
+[Hire me for your project!](/about/){: .btn .btn--warning .btn--large}
 
 &nbsp;
 
