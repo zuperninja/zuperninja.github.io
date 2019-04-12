@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : UA-120079343-2
+google_site_verification : "UA-120079343-2"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -78,7 +78,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-120079343-2"
 
 
 # Site Author apparait sur le side bar et metadonnées
@@ -99,7 +99,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "@zuper_ninja
+  instagram        : "@zuper_ninja"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
