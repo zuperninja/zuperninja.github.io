@@ -1,8 +1,8 @@
 ## Bienvenue sur ton site GitHub!
 
-Tu peux utiliser l'[editeur de GitHub](https://github.com/zuperninja/site-web-OF/edit/master/README.md) pour mettre à jour et visualiser le contenu dus ite sous forme de fichiers Markdown
+Tu peux utiliser l'[editeur de GitHub](https://github.com/zuperninja/site-web-OF/edit/master/README.md) pour mettre à jour et visualiser le contenu du site sous forme de fichiers Markdown
 
-A chaque fois qu'un commit est créer dans ce repo, GitHub Pages va llancer [Jekyll](https://jekyllrb.com/) pour reconstruire les pages de ton site, à partir du contenu situé dans les fichiers en Markdown.
+A chaque fois qu'un commit est créer dans ce repo, GitHub Pages va lancer [Jekyll](https://jekyllrb.com/) pour reconstruire les pages de ton site, à partir du contenu situé dans les fichiers en Markdown.
 
 ### Markdown
 
