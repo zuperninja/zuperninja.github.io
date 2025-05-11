@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flashcards Excel</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #e8f5e9, #f1f8e9);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      background: white;
+      border-radius: 15px;
+      padding: 40px 30px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+      max-width: 500px;
+      width: 90%;
+      text-align: center;
+      overflow: hidden;
+    }
+
+    .progress {
+      font-size: 1rem;
+      color: #444;
+      margin-bottom: 10px;
+    }
+
+    .flip-card {
+      background-color: transparent;
+      width: 100%;
+      max-width: 400px; /* Limite la largeur des cartes */
+      height: 250px;  /* Fixe la hauteur des cartes */
+      margin: 0 auto 25px;  /* Centrer la carte */
+      position: relative;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      transition: opacity 0.5s ease-in-out;
+    }
+
+    .flip-card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+    }
+
+    .flip-card-front,
+    .flip-card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;  /* Alignement à gauche */
+      justify-content: center;
+      padding: 20px;
+      font-size: 1.2rem;
+      font-weight: bold;
+      box-sizing: border-box;
+      overflow: hidden;
+    }
+
+    .flip-card-front {
+      background-color: white; /* Recto avec fond blanc */
+      border: 2px solid #2e7d32; /* Bordure verte pour la question */
+      color: #2e7d32; /* Texte en vert */
+    }
+
+    .flip-card-back {
+      display: none;
+      background-color: #388e3c; /* Verso avec une couleur différente */
+      color: white;
+    }
+
+    .title {
+      font-size: 1.4rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .flip-card-front .title,
+    .flip-card-back .title {
+      font-size: 1.4rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+      text-align: left;
+    }
+
+    .flip-card-front .content,
+    .flip-card-back .content {
+      font-size: 1.1rem;
+      text-align: left;
+    }
+
+    .button {
+      background-color: #2e7d32;
+      color: white;
+      padding: 12px 22px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin: 6px;
+      font-size: 1rem;
+      transition: background-color 0.2s ease;
+    }
+
+    .button:hover {
+      background-color: #1b5e20;
+    }
+
+    .fade-in {
+      animation: fadeIn 0.5s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    /* Media Queries pour rendre le site responsive */
+    @media (max-width: 768px) {
+      .flip-card {
+        height: 220px; /* Réduit la hauteur des cartes sur des écrans plus petits */
+      }
+
+      .title {
+        font-size: 1.2rem; /* Taille de la police pour le titre sur petits écrans */
+      }
+
+      .flip-card-front .content,
+      .flip-card-back .content {
+        font-size: 1rem; /* Réduit la taille du texte dans les cartes */
+      }
+
+      .button {
+        padding: 10px 20px;
+        font-size: 0.9rem; /* Taille des boutons sur mobile */
+      }
+
+      .container {
+        padding: 30px 20px;
+      }
+    }
+
+    /* Pour les petits écrans comme les smartphones */
+    @media (max-width: 480px) {
+      .flip-card {
+        height: 180px; /* Encore plus petit pour les très petits écrans */
+      }
+
+      .progress {
+        font-size: 0.9rem; /* Réduit la taille de la progression sur mobile */
+      }
+
+      .flip-card-front .content,
+      .flip-card-back .content {
+        font-size: 0.9rem; /* Taille de texte plus petite sur mobile */
+      }
+
+      .button {
+        padding: 8px 15px;
+        font-size: 0.8rem; /* Réduit encore la taille des boutons sur très petit écran */
+      }
+
+      .title {
+        font-size: 1rem; /* Taille du titre plus petite pour mobile */
+      }
+
+      .container {
+        padding: 20px 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="progress" id="progressText">Carte 1 sur 5</div>
+    <div class="flip-card" id="cardContainer">
+      <div class="flip-card-inner" id="cardInner">
+        <div class="flip-card-front" id="cardFront">
+          <div class="title">Question :</div>
+          <div class="content">=SOMME()</div>
+        </div>
+        <div class="flip-card-back" id="cardBack">
+          <div class="title">Réponse :</div>
+          <div class="content">Additionne une plage de cellules</div>
+        </div>
+      </div>
+    </div>
+    <button class="button" id="toggleBtn" onclick="toggleCard()">Afficher la réponse</button>
+    <button class="button" onclick="nextCard()">Carte suivante</button>
+  </div>
+
+  <script>
+    const cards = [
+      { question: "=SOMME()", answer: "Additionne une plage de cellules" },
+      { question: "=SI(condition;vrai;faux)", answer: "Condition logique : si vrai ou faux" },
+      { question: "=RECHERCHEV(valeur;tableau;col;FAUX)", answer: "Recherche verticale dans une plage" },
+      { question: "=NB()", answer: "Compte les cellules contenant des nombres" },
+      { question: "=CONCATENER(texte1; texte2)", answer: "Assemble plusieurs textes" }
+    ];
+
+    let shuffled = [];
+    let current = 0;
+    let flipped = false;
+
+    function shuffle(array) {
+      let copy = [...array];
+      for (let i = copy.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [copy[i], copy[j]] = [copy[j], copy[i]];
+      }
+      return copy;
+    }
+
+    function updateCard() {
+      const front = document.getElementById("cardFront");
+      const back = document.getElementById("cardBack");
+      const progress = document.getElementById("progressText");
+      const toggleBtn = document.getElementById("toggleBtn");
+      const cardInner = document.getElementById("cardInner");
+
+      // Mise à jour du contenu des cartes
+      front.querySelector(".content").textContent = shuffled[current].question;
+      back.querySelector(".content").textContent = shuffled[current].answer;
+      progress.textContent = `Carte ${current + 1} sur ${shuffled.length}`;
+      toggleBtn.textContent = "Afficher la réponse";
+
+      // Animation de fade-in pour l'apparition de la nouvelle carte
+      cardInner.classList.remove("fade-in");
+      void cardInner.offsetWidth; // Force le reflow
+      cardInner.classList.add("fade-in");
+    }
+
+    function toggleCard() {
+      flipped = !flipped;
+      const cardBack = document.getElementById("cardBack");
+      const toggleBtn = document.getElementById("toggleBtn");
+
+      // Afficher ou cacher la réponse
+      if (flipped) {
+        cardBack.style.display = 'flex';
+        toggleBtn.textContent = "Afficher la question";
+      } else {
+        cardBack.style.display = 'none';
+        toggleBtn.textContent = "Afficher la réponse";
+      }
+    }
+
+    function nextCard() {
+      // Passer à la carte suivante
+      current = (current + 1) % shuffled.length;
+      updateCard();
+    }
+
+    // Initialisation
+    shuffled = shuffle(cards);
+    updateCard();
+  </script>
+</body>
+</html>
